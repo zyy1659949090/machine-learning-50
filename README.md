@@ -211,3 +211,4 @@
 * [60分でわかる仮説検定](http://elsur.jpn.org/resource/t-test.pdf)
 * [サンプリング手法について(自分なりに)わかりやすく書くよ！](http://qiita.com/ysekky/items/16cd279c9be0dfb75217)
 * [The chatter package](https://hackage.haskell.org/package/chatter)
+* [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
