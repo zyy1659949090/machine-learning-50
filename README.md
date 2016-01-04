@@ -8,8 +8,7 @@
 * [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB)
 * [(要申請)nico-opendata](https://nico-opendata.jp/ja/index.html)
 
-##ライブラリ
-###Haskell
+##Haskell
 * [random-fu](https://hackage.haskell.org/package/random-fu)
 * [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
   * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
@@ -17,11 +16,6 @@
 * [HaskellR](http://tweag.github.io/HaskellR/)
   * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
   * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
-
-###Python
-* [scikit-learn](http://scikit-learn.org/stable/)
-  * [Scikit-learnでPCA](http://qiita.com/sotetsuk/items/abef7c5adfa8db6f7f5f)
-  * [Scikit-learnでIsomap](http://qiita.com/sotetsuk/items/0c9ffb2a891294d314f3)
 
 ##ニューラルネットワーク
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
@@ -59,7 +53,7 @@
 ####word2vec
 * [word2vec](https://code.google.com/p/word2vec/)
 
-###Chainer
+##Chainer
 * [Chainerで機械学習と戯れる: Treasureゲームの強化学習を110日程続けた経過メモ](http://qiita.com/mokemokechicken/items/9c933a4c580d00fc8cb9)
 * [examples\word2vecを読む](http://chainernlpman.hatenablog.com/entry/2015/12/02/022151)
 * [Chainerでファインチューニングするときの個人的ベストプラクティス](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)
@@ -123,6 +117,7 @@
 
 ##強化学習
 * [Flappy Bird RL](http://sarvagyavaish.github.io/FlappyBirdRL/)
+* [マルチエージェントシステム入門](http://qiita.com/hama_du/items/b62ff71ee2ada9d2a846)
 
 ##自然言語処理
 * [Google Ngram Viewer](https://books.google.com/ngrams)
@@ -232,4 +227,3 @@
 * [プロトタイプで終わらせない死の谷を超える機械学習プロジェクトの進め方](http://www.slideshare.net/shakezo/mlct4)
 * [異常検知と変化検知のまとめ 数式なし](http://qiita.com/GushiSnow/items/f032806cfa8cec046318)
 * [リクルート式　自然言語処理技術の適応事例紹介](http://www.slideshare.net/recruitcojp/ss-56150629)
-* [マルチエージェントシステム入門](http://qiita.com/hama_du/items/b62ff71ee2ada9d2a846)
