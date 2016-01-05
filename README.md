@@ -60,9 +60,8 @@
 * [Deep Learning のフレームワーク Chainer を公開しました](https://research.preferred.jp/2015/06/deep-learning-chainer/)
 * [Chainer – A flexible framework of neural networks](http://docs.chainer.org/en/stable/)
 * <https://github.com/pfnet/chainer/tree/master/examples>
-* [examples\word2vecを読む](http://chainernlpman.hatenablog.com/entry/2015/12/02/022151)
-* [Chainerでファインチューニングするときの個人的ベストプラクティス](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)
 * [Chainerで顔イラストの自動生成](http://qiita.com/mattya/items/e5bfe5e04b9d2f0bbd47)
+* [Chainerで学習した対話用のボットをSlackで使用+Twitterから学習データを取得してファインチューニング](http://qiita.com/GushiSnow/items/79ca7deeb976f50126d7)
 * [Chainerでファインチューニングするときの個人的ベストプラクティス](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)
 * [【機械学習】ディープラーニング フレームワークChainerを試しながら解説してみる。](http://qiita.com/kenmatsu4/items/7b8d24d4c5144a686412)
 * [【ディープラーニング】ChainerでAutoencoderを試して結果を可視化してみる。](http://qiita.com/kenmatsu4/items/99d4a54d5a57405ecaf8)
