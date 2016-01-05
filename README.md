@@ -46,7 +46,6 @@
 * [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP)
 * [New ‘deep learning’ technique enables robot mastery of skills via trial and error](http://newscenter.berkeley.edu/2015/05/21/deep-learning-robot-masters-skills-via-trial-and-error/)
 * [ニコニコ動画の公開コメントデータをDeep Learningで解析する](http://qiita.com/ixixi/items/a3d56b2db6e09249a519)
-* [Theanoによる自己符号化器の実装](http://aidiary.hatenablog.com/entry/20151203/1449146680)
 * [コンストラスティブ・ダイバージェンス法を用いた制限ボルツマンマシン(RBM)の実装](http://kivantium.hateblo.jp/entry/2015/12/01/000207)
 * [深層学習ライブラリのプログラミングモデル](http://www.slideshare.net/yutakashino/ss-56291783)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
@@ -55,7 +54,12 @@
 ####word2vec
 * [word2vec](https://code.google.com/p/word2vec/)
 
-##Chainer
+####Theano
+* [Theano](http://deeplearning.net/software/theano/)
+* [Theano - Tutorial](http://deeplearning.net/software/theano/tutorial/)
+* [Theanoによる自己符号化器の実装](http://aidiary.hatenablog.com/entry/20151203/1449146680)
+
+####Chainer
 * [Chainer](http://chainer.org/)
 * [Deep Learning のフレームワーク Chainer を公開しました](https://research.preferred.jp/2015/06/deep-learning-chainer/)
 * [Chainer – A flexible framework of neural networks](http://docs.chainer.org/en/stable/)
@@ -71,7 +75,7 @@
 * [mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN)
 * [Chainerを用いたマルウェア検出への取り組みについて](http://olanleed.hatenablog.com/entry/2015/12/13/215246)
 
-###Tensor Flow
+####Tensor Flow
 * [TensorFlow](http://tensorflow.org/)
 * [Neural Networkをちょっとかじった人のための、はじめてのTensorFlow](http://qiita.com/sergeant-wizard/items/55256ac6d5d8d7c53a5a)
 * [TensorFlow 畳み込みニューラルネットワークで手書き認識率99.2%の分類器を構築](http://qiita.com/haminiku/items/36982ae65a770565458d)
