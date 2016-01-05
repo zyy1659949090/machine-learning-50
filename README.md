@@ -6,7 +6,8 @@
 * [Strava dataset](http://labs.strava.com/)
 * [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
 * [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB)
-* [(要申請)nico-opendata](https://nico-opendata.jp/ja/index.html)
+* [nico-opendata](https://nico-opendata.jp/ja/index.html)
+* [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
 
 ##Haskell
 * [random-fu](https://hackage.haskell.org/package/random-fu)
@@ -49,12 +50,16 @@
 * [コンストラスティブ・ダイバージェンス法を用いた制限ボルツマンマシン(RBM)の実装](http://kivantium.hateblo.jp/entry/2015/12/01/000207)
 * [深層学習ライブラリのプログラミングモデル](http://www.slideshare.net/yutakashino/ss-56291783)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
+* [ディープラーニングの有名ライブラリ5種を最短距離で試す半日コース（TensorFlow, Chainer, Caffe, DeepDream, 画風変換）](http://d.hatena.ne.jp/shu223/20160105/1451952796)
 
 ####word2vec
 * [word2vec](https://code.google.com/p/word2vec/)
 
 ##Chainer
-* [Chainerで機械学習と戯れる: Treasureゲームの強化学習を110日程続けた経過メモ](http://qiita.com/mokemokechicken/items/9c933a4c580d00fc8cb9)
+* [Chainer](http://chainer.org/)
+* [Deep Learning のフレームワーク Chainer を公開しました](https://research.preferred.jp/2015/06/deep-learning-chainer/)
+* [Chainer – A flexible framework of neural networks](http://docs.chainer.org/en/stable/)
+* <https://github.com/pfnet/chainer/tree/master/examples>
 * [examples\word2vecを読む](http://chainernlpman.hatenablog.com/entry/2015/12/02/022151)
 * [Chainerでファインチューニングするときの個人的ベストプラクティス](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)
 * [Chainerで顔イラストの自動生成](http://qiita.com/mattya/items/e5bfe5e04b9d2f0bbd47)
@@ -82,6 +87,7 @@
 * [TensorFlowチュートリアル - 画像認識（翻訳）](http://qiita.com/KojiOhki/items/dab6922b6cd7b990c002)
 * [TensorFlowをscikit-learnライクに使えるskflow](http://qiita.com/icoxfog417/items/9d052b556bd8a4074e4a)
 * [TensorFlowでのMNIST学習結果を、実際に手書きして試す](http://d.hatena.ne.jp/sugyan/20151124/1448292129)
+* [ディープラーニングでおそ松さんの六つ子は見分けられるのか 〜実施編〜](http://bohemia.hatenablog.com/entry/2015/11/22/174603)
 
 ##Classification
 * [k近傍法](https://ja.wikipedia.org/wiki/K%E8%BF%91%E5%82%8D%E6%B3%95)
@@ -159,6 +165,7 @@
 * [The riak package](https://hackage.haskell.org/package/riak)
 * [Google’s MapReduce Programming Model — Revisited](http://userpages.uni-koblenz.de/~laemmel/MapReduce/paper.pdf)
 * [ianoc/jt](https://github.com/ianoc/jt)
+* [Apache Sparkで始めるお手軽機械学習(Word2Vec編)](http://www.intellilink.co.jp/article/column/bigdata-kk04.html)
 
 ##Probabilistic Programming
 * [Learning Probabilistic Programs](http://arxiv.org/abs/1407.2646)
