@@ -105,6 +105,7 @@
 * [新はてなブックマークでも使われてるComplement Naive Bayesを解説するよ](http://d.hatena.ne.jp/tkng/20081217/1229475900)
 
 ###K-means 法
+* [Example] [k-means clustering example using iris data set](https://gist.github.com/lotz84/b1be4d851b45de6c2243)
 * [K-means 法を D3.js でビジュアライズしてみた](http://tech.nitoyon.com/ja/blog/2013/11/07/k-means/)
 
 ###SVM
