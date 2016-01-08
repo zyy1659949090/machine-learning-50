@@ -239,3 +239,6 @@
 * [プロトタイプで終わらせない死の谷を超える機械学習プロジェクトの進め方](http://www.slideshare.net/shakezo/mlct4)
 * [異常検知と変化検知のまとめ 数式なし](http://qiita.com/GushiSnow/items/f032806cfa8cec046318)
 * [リクルート式　自然言語処理技術の適応事例紹介](http://www.slideshare.net/recruitcojp/ss-56150629)
+* [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
+* [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
+* [関数型言語Haskellを用いた役割指向エージェントベースシミュレーションシステムのプロトタイプ開発](http://repo.lib.hosei.ac.jp/handle/10114/11016)
