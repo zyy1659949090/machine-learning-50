@@ -50,6 +50,7 @@
 * [深層学習ライブラリのプログラミングモデル](http://www.slideshare.net/yutakashino/ss-56291783)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
 * [ディープラーニングの有名ライブラリ5種を最短距離で試す半日コース（TensorFlow, Chainer, Caffe, DeepDream, 画風変換）](http://d.hatena.ne.jp/shu223/20160105/1451952796)
+* [aeyakovenko/rbm](https://github.com/aeyakovenko/rbm)
 
 ####word2vec
 * [word2vec](https://code.google.com/p/word2vec/)
