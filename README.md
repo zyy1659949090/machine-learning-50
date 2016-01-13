@@ -22,7 +22,6 @@
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 * [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [aeyakovenko/rbm](https://github.com/aeyakovenko/rbm)
-* [DeepLearning Documentation](http://deeplearning.net/tutorial/contents.html)
 * [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
 * [Deep Learningと音声認識](https://research.preferred.jp/2015/07/deep-learning-speech-recognition/)
 * [自然言語処理のためのDeep Learning](http://www.slideshare.net/yutakikuchi927/deep-learning-26647407)
@@ -40,6 +39,14 @@
 * [深層学習ライブラリのプログラミングモデル](http://www.slideshare.net/yutakashino/ss-56291783)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
 * [ディープラーニングの有名ライブラリ5種を最短距離で試す半日コース（TensorFlow, Chainer, Caffe, DeepDream, 画風変換）](http://d.hatena.ne.jp/shu223/20160105/1451952796)
+
+###Tools & Tutorials
+* [PyBrain](http://pybrain.org/docs/index.html)
+  * [Tutorials](http://pybrain.org/docs/index.html#tutorials)
+* [Theano](http://deeplearning.net/software/theano/)
+  * [Tutorial](http://deeplearning.net/software/theano/tutorial/)
+  * [Theanoによる自己符号化器の実装](http://aidiary.hatenablog.com/entry/20151203/1449146680)
+  * [DeepLearning Documentation](http://deeplearning.net/tutorial/contents.html)
 
 ###ニューラルネットワーク
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
@@ -59,16 +66,8 @@
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [TensorFlowチュートリアル - リカレント・ニューラルネットワーク（翻訳）](http://qiita.com/KojiOhki/items/149f96bd98973bd219ac)
 
-###PyBrain
-* [Building Networks with Modules and Connections](http://pybrain.org/docs/tutorial/netmodcon.html#using-recurrent-networks)
-
 ###word2vec
 * [word2vec](https://code.google.com/p/word2vec/)
-
-###Theano
-* [Theano](http://deeplearning.net/software/theano/)
-* [Theano - Tutorial](http://deeplearning.net/software/theano/tutorial/)
-* [Theanoによる自己符号化器の実装](http://aidiary.hatenablog.com/entry/20151203/1449146680)
 
 ###Chainer
 * [Chainer](http://chainer.org/)
