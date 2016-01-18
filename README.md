@@ -54,6 +54,8 @@
 * [Neural networks in Haskell (Lynn)](https://twitter.com/mcarberg/status/664750004742000640)
 * [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
 * [数式で書き下す Maxout Networks](http://blog.yusugomori.com/post/133257383300/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-maxout-networks)
+* [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
+* [ConvnetJS demo: toy 2d classification with 2-layer neural network](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
 
 ###RNN
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
