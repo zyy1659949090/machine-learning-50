@@ -67,6 +67,8 @@
 * [Playing with Recurrent Neural Networks in Haskell](http://jpmoresmau.blogspot.jp/2015/08/playing-with-recurrent-neural-networks.html)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [TensorFlowチュートリアル - リカレント・ニューラルネットワーク（翻訳）](http://qiita.com/KojiOhki/items/149f96bd98973bd219ac)
+* [ChainerとRNNと機械翻訳](http://qiita.com/odashi_t/items/a1be7c4964fbea6a116e)
+* [ニューラルネットワークで時系列データの予測を行う](http://qiita.com/icoxfog417/items/2791ee878deee0d0fd9c)
 
 ###word2vec
 * [word2vec](https://code.google.com/p/word2vec/)
