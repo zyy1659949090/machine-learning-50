@@ -259,3 +259,4 @@
 * [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
 * [A tour of IHaskell extensions and integrations](http://remusao.github.io/a-tour-of-ihaskell-extensions-and-integrations.html)
 * [shnarazk/mios](https://github.com/shnarazk/mios)
+* [Particle Smoothing](https://idontgetoutmuch.wordpress.com/2016/01/20/particle-smoothing/)
