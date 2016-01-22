@@ -262,3 +262,5 @@
 * [Particle Smoothing](https://idontgetoutmuch.wordpress.com/2016/01/20/particle-smoothing/)
 * [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
 * [MCMC: The Gibbs Sampler](https://theclevermachine.wordpress.com/2012/11/05/mcmc-the-gibbs-sampler/)
+* [Bounded Variation](http://boundedvariation.github.io/)
+* [Dynamical systems](https://bayeshive.com/help/1589)
