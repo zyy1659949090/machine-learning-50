@@ -260,3 +260,5 @@
 * [A tour of IHaskell extensions and integrations](http://remusao.github.io/a-tour-of-ihaskell-extensions-and-integrations.html)
 * [shnarazk/mios](https://github.com/shnarazk/mios)
 * [Particle Smoothing](https://idontgetoutmuch.wordpress.com/2016/01/20/particle-smoothing/)
+* [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
+* [MCMC: The Gibbs Sampler](https://theclevermachine.wordpress.com/2012/11/05/mcmc-the-gibbs-sampler/)
