@@ -268,3 +268,4 @@
 * [Dynamical systems](https://bayeshive.com/help/1589)
 * [KalmanFilter の動きを可視化する 一次元版](http://sinhrks.hatenablog.com/entry/2014/11/01/231333)
 * [KalmanFilter の動きを可視化する 二次元版](http://sinhrks.hatenablog.com/entry/2014/11/05/004029)
+* [t-SNE を用いた次元圧縮方法のご紹介](http://blog.albert2005.co.jp/2015/12/02/tsne/)
