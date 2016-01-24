@@ -39,6 +39,7 @@
 * [深層学習ライブラリのプログラミングモデル](http://www.slideshare.net/yutakashino/ss-56291783)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
 * [ディープラーニングの有名ライブラリ5種を最短距離で試す半日コース（TensorFlow, Chainer, Caffe, DeepDream, 画風変換）](http://d.hatena.ne.jp/shu223/20160105/1451952796)
+* [深層畳み込みニューラルネットワークを用いた画像スケーリング](http://postd.cc/image-scaling-using-deep-convolutional-neural-networks-part1/)
 
 ###Tools & Tutorials
 * [PyBrain](http://pybrain.org/docs/index.html)
@@ -56,6 +57,7 @@
 * [数式で書き下す Maxout Networks](http://blog.yusugomori.com/post/133257383300/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-maxout-networks)
 * [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
 * [ConvnetJS demo: toy 2d classification with 2-layer neural network](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
+* [ロジスティック回帰 (勾配降下法 / 確率的勾配降下法) を可視化する](http://sinhrks.hatenablog.com/entry/2014/11/24/205305)
 
 ###RNN
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
@@ -264,3 +266,5 @@
 * [MCMC: The Gibbs Sampler](https://theclevermachine.wordpress.com/2012/11/05/mcmc-the-gibbs-sampler/)
 * [Bounded Variation](http://boundedvariation.github.io/)
 * [Dynamical systems](https://bayeshive.com/help/1589)
+* [KalmanFilter の動きを可視化する 一次元版](http://sinhrks.hatenablog.com/entry/2014/11/01/231333)
+* [KalmanFilter の動きを可視化する 二次元版](http://sinhrks.hatenablog.com/entry/2014/11/05/004029)
