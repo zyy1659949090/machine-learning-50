@@ -1,23 +1,3 @@
-##データセット
-* [livedoor ニュースコーパス](http://www.rondhuit.com/download.html#ldcc)
-* [Wikipedia日英京都関連文書対訳コーパス](https://alaginrc.nict.go.jp/WikiCorpus/)
-* [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/Iris)
-* [The CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
-* [Strava dataset](http://labs.strava.com/)
-* [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
-* [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB)
-* [nico-opendata](https://nico-opendata.jp/ja/index.html)
-* [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
-
-##Haskell
-* [random-fu](https://hackage.haskell.org/package/random-fu)
-* [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
-  * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
-* [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
-* [HaskellR](http://tweag.github.io/HaskellR/)
-  * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
-  * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
-
 ##Deep Learning
 * [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
 * [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
@@ -109,6 +89,22 @@
 * [ディープラーニングでおそ松さんの六つ子は見分けられるのか 〜実施編〜](http://bohemia.hatenablog.com/entry/2015/11/22/174603)
 * [TensorFlowによるディープラーニングで、アイドルの顔を識別する](http://d.hatena.ne.jp/sugyan/20160112/1452558576)
 
+##自然言語処理
+* [Google Ngram Viewer](https://books.google.com/ngrams)
+* [tf-idf](http://www.wikiwand.com/ja/Tf-idf)
+* [文法圧縮入門：超高速テキスト処理のためのデータ圧縮（NLP2014チュートリアル）](http://www.slideshare.net/marugorithm/nlp2014)
+* [意味の意味が分からない](http://rekken.g.hatena.ne.jp/murawaki/20140206/p1)
+* [Latent Dirichlet Allocation(LDA)を用いたニュース記事の分類](http://developer.smartnews.com/blog/2013/08/19/lda-based-channel-categorization-in-smartnews/)
+* [The edit-distance package](http://hackage.haskell.org/package/edit-distance)
+* [Colada: (Word) Classes with Online LDA](https://bitbucket.org/gchrupala/colada)
+* [The colada package](https://hackage.haskell.org/package/colada)
+* [The swift-lda package](https://hackage.haskell.org/package/swift-lda)
+* [The chatter package](https://hackage.haskell.org/package/chatter)
+
+###形態素解析
+* [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
+* [日本語形態素解析システム JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
+
 ##Classification
 * [k近傍法](https://ja.wikipedia.org/wiki/K%E8%BF%91%E5%82%8D%E6%B3%95)
 * [Factorization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010FM.pdf)
@@ -145,22 +141,6 @@
 ##強化学習
 * [Flappy Bird RL](http://sarvagyavaish.github.io/FlappyBirdRL/)
 * [マルチエージェントシステム入門](http://qiita.com/hama_du/items/b62ff71ee2ada9d2a846)
-
-##自然言語処理
-* [Google Ngram Viewer](https://books.google.com/ngrams)
-* [tf-idf](http://www.wikiwand.com/ja/Tf-idf)
-* [文法圧縮入門：超高速テキスト処理のためのデータ圧縮（NLP2014チュートリアル）](http://www.slideshare.net/marugorithm/nlp2014)
-* [意味の意味が分からない](http://rekken.g.hatena.ne.jp/murawaki/20140206/p1)
-* [Latent Dirichlet Allocation(LDA)を用いたニュース記事の分類](http://developer.smartnews.com/blog/2013/08/19/lda-based-channel-categorization-in-smartnews/)
-* [The edit-distance package](http://hackage.haskell.org/package/edit-distance)
-* [Colada: (Word) Classes with Online LDA](https://bitbucket.org/gchrupala/colada)
-* [The colada package](https://hackage.haskell.org/package/colada)
-* [The swift-lda package](https://hackage.haskell.org/package/swift-lda)
-* [The chatter package](https://hackage.haskell.org/package/chatter)
-
-###形態素解析
-* [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
-* [日本語形態素解析システム JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
 
 ##画像処理
 * [画像認識の初歩、SIFT,SURF特徴量](http://www.slideshare.net/lawmn/siftsurf)
@@ -209,6 +189,26 @@
 * [プリキュアで学ぶ劣モジュラ関数](http://tasusu.hatenablog.com/entry/2015/12/01/000608)
 * [60分でわかる仮説検定](http://elsur.jpn.org/resource/t-test.pdf)
 * [Parallelized Stochastic Gradient Descent](http://martin.zinkevich.org/publications/nips2010.pdf)
+
+##データセット
+* [livedoor ニュースコーパス](http://www.rondhuit.com/download.html#ldcc)
+* [Wikipedia日英京都関連文書対訳コーパス](https://alaginrc.nict.go.jp/WikiCorpus/)
+* [Iris Data Set](https://archive.ics.uci.edu/ml/datasets/Iris)
+* [The CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
+* [Strava dataset](http://labs.strava.com/)
+* [caesar0301/awesome-public-datasets](https://github.com/caesar0301/awesome-public-datasets)
+* [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB)
+* [nico-opendata](https://nico-opendata.jp/ja/index.html)
+* [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
+
+##Haskell
+* [random-fu](https://hackage.haskell.org/package/random-fu)
+* [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
+  * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
+* [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
+* [HaskellR](http://tweag.github.io/HaskellR/)
+  * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
+  * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
 
 ##学会
 * [言語処理学会第20回年次大会(NLP2014)](http://www.anlp.jp/nlp2014/)
