@@ -269,3 +269,4 @@
 * [KalmanFilter の動きを可視化する 一次元版](http://sinhrks.hatenablog.com/entry/2014/11/01/231333)
 * [KalmanFilter の動きを可視化する 二次元版](http://sinhrks.hatenablog.com/entry/2014/11/05/004029)
 * [t-SNE を用いた次元圧縮方法のご紹介](http://blog.albert2005.co.jp/2015/12/02/tsne/)
+* [カーネルとは直感的に説明するとなんなのか？](http://qiita.com/keisuke-nakata/items/9d46152ac52dcd2cc92a)
