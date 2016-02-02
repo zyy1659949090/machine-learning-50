@@ -11,6 +11,7 @@
 * [The colada package](https://hackage.haskell.org/package/colada)
 * [The swift-lda package](https://hackage.haskell.org/package/swift-lda)
 * [The chatter package](https://hackage.haskell.org/package/chatter)
+* [自然言語処理のための変分ベイズ法](http://chasen.org/~daiti-m/paper/vb-nlp-tutorial.pdf)
 
 ###形態素解析
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
@@ -182,3 +183,4 @@
 * [t-SNE を用いた次元圧縮方法のご紹介](http://blog.albert2005.co.jp/2015/12/02/tsne/)
 * [カーネルとは直感的に説明するとなんなのか？](http://qiita.com/keisuke-nakata/items/9d46152ac52dcd2cc92a)
 * [MLSS'15 Kyoto](http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php?id=schedule)
+* [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
