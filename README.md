@@ -189,3 +189,4 @@
 * [カーネルとは直感的に説明するとなんなのか？](http://qiita.com/keisuke-nakata/items/9d46152ac52dcd2cc92a)
 * [MLSS'15 Kyoto](http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php?id=schedule)
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
+* [Empirical Analysis of Predictive Algorithms for Collaborative Filtering](https://dslpitt.org/uai/papers/98/p43-breese.pdf)
