@@ -112,6 +112,10 @@
 * [delight-im/FreeGeoDB](https://github.com/delight-im/FreeGeoDB)
 * [nico-opendata](https://nico-opendata.jp/ja/index.html)
 * [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
+* [animeface-character-dataset](http://www.nurs.or.jp/~nagadomi/animeface-character-dataset/)
+* [ImageNet](http://image-net.org/)
+* [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
+* [UCF101 - Action Recognition Data Set](http://crcv.ucf.edu/data/UCF101.php)
 
 ##Haskell
 * [random-fu](https://hackage.haskell.org/package/random-fu)
