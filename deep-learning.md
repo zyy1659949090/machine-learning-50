@@ -1,65 +1,32 @@
-##Deep Learning
-* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
+#Deep Learning
+* [Reducing the Dimensionality of Data with Neural Networks](http://www.cs.toronto.edu/~hinton/science.pdf) - Deep Learning の火付け役となった論文
 * [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
-* [aeyakovenko/rbm](https://github.com/aeyakovenko/rbm)
-* [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
+* [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Deep Learningと音声認識](https://research.preferred.jp/2015/07/deep-learning-speech-recognition/)
 * [自然言語処理のためのDeep Learning](http://www.slideshare.net/yutakikuchi927/deep-learning-26647407)
 * [Deep learning via Hessian-free optimization](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_Martens10.pdf)
 * [Deep learning](http://www.slideshare.net/kazoo04/deep-learning-15097274)
 * [一般向けのDeep Learning](http://www.slideshare.net/pfi/deep-learning-22350063)
-* [制限付きボルツマンマシンの初心者向けガイド](http://postd.cc/a-beginners-guide-to-restricted-boltzmann-machines/)
-* [畳み込みニューラルネット](http://www.slideshare.net/ssuser726f56/joi-51681753)
-* [数式で書き下す Convolutional Neural Networks (CNN)](http://blog.yusugomori.com/post/129688163130/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-convolutional-neural-networks-cnn)
-* [多層パーセプトロンで手書き数字認識](http://aidiary.hatenablog.com/entry/20140201/1391218771)
 * [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP)
 * [New ‘deep learning’ technique enables robot mastery of skills via trial and error](http://newscenter.berkeley.edu/2015/05/21/deep-learning-robot-masters-skills-via-trial-and-error/)
 * [ニコニコ動画の公開コメントデータをDeep Learningで解析する](http://qiita.com/ixixi/items/a3d56b2db6e09249a519)
-* [コンストラスティブ・ダイバージェンス法を用いた制限ボルツマンマシン(RBM)の実装](http://kivantium.hateblo.jp/entry/2015/12/01/000207)
 * [深層学習ライブラリのプログラミングモデル](http://www.slideshare.net/yutakashino/ss-56291783)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
-* [ディープラーニングの有名ライブラリ5種を最短距離で試す半日コース（TensorFlow, Chainer, Caffe, DeepDream, 画風変換）](http://d.hatena.ne.jp/shu223/20160105/1451952796)
-* [深層畳み込みニューラルネットワークを用いた画像スケーリング](http://postd.cc/image-scaling-using-deep-convolutional-neural-networks-part1/)
+* [計算グラフの微積分：バックプロパゲーションを理解する](http://postd.cc/2015-08-backprop/)
 
-###Tools & Tutorials
-* [PyBrain](http://pybrain.org/docs/index.html)
-  * [Tutorials](http://pybrain.org/docs/index.html#tutorials)
+##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
   * [Tutorial](http://deeplearning.net/software/theano/tutorial/)
   * [Theanoによる自己符号化器の実装](http://aidiary.hatenablog.com/entry/20151203/1449146680)
   * [DeepLearning Documentation](http://deeplearning.net/tutorial/contents.html)
 
-###ニューラルネットワーク
-* [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
-* [alpmestan/hnn](https://github.com/alpmestan/hnn)
-* [Neural networks in Haskell (Lynn)](https://twitter.com/mcarberg/status/664750004742000640)
-* [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
-* [数式で書き下す Maxout Networks](http://blog.yusugomori.com/post/133257383300/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-maxout-networks)
-* [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
-* [ConvnetJS demo: toy 2d classification with 2-layer neural network](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
-* [ロジスティック回帰 (勾配降下法 / 確率的勾配降下法) を可視化する](http://sinhrks.hatenablog.com/entry/2014/11/24/205305)
-
-###RNN
-* [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
-* [リカレントニューラルネットなぜ強い？](http://d.hatena.ne.jp/mamoruk/20151209/p1)
-* [LSTMネットワークの概要](http://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca)
-* [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
-* [Recurrent Neural Networks](http://www.slideshare.net/beam2d/pfi-seminar-20141030rnn)
-* [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
-* [Playing with Recurrent Neural Networks in Haskell](http://jpmoresmau.blogspot.jp/2015/08/playing-with-recurrent-neural-networks.html)
-* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-* [TensorFlowチュートリアル - リカレント・ニューラルネットワーク（翻訳）](http://qiita.com/KojiOhki/items/149f96bd98973bd219ac)
-* [ChainerとRNNと機械翻訳](http://qiita.com/odashi_t/items/a1be7c4964fbea6a116e)
-* [ニューラルネットワークで時系列データの予測を行う](http://qiita.com/icoxfog417/items/2791ee878deee0d0fd9c)
-
-###word2vec
-* [word2vec](https://code.google.com/p/word2vec/)
-
 ###Chainer
-* [Chainer](http://chainer.org/)
-* [Deep Learning のフレームワーク Chainer を公開しました](https://research.preferred.jp/2015/06/deep-learning-chainer/)
+> 制御構造はすべて Python のものがそのままつかえます。Chainer は、実際に Python のコードを用いて入力配列に何の処理が適用されたかだけを記憶しておき、それを誤差逆伝播の実行に使います。
+
+[Deep Learning のフレームワーク Chainer を公開しました](https://research.preferred.jp/2015/06/deep-learning-chainer/)
+
+* [Chainer](http://chainer.org/) - 公式ドキュメント
 * [Chainer – A flexible framework of neural networks](http://docs.chainer.org/en/stable/)
-* <https://github.com/pfnet/chainer/tree/master/examples>
 * [Chainerで顔イラストの自動生成](http://qiita.com/mattya/items/e5bfe5e04b9d2f0bbd47)
 * [Chainerで学習した対話用のボットをSlackで使用+Twitterから学習データを取得してファインチューニング](http://qiita.com/GushiSnow/items/79ca7deeb976f50126d7)
 * [Chainerでファインチューニングするときの個人的ベストプラクティス](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)
@@ -70,6 +37,7 @@
 * [ChainerとRNNと機械翻訳](http://qiita.com/odashi_t/items/a1be7c4964fbea6a116e)
 * [mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN)
 * [Chainerを用いたマルウェア検出への取り組みについて](http://olanleed.hatenablog.com/entry/2015/12/13/215246)
+* [ニューラルネットワークを用いたランク学習(ChainerによるRankNetの実装)](http://qiita.com/sz_dr/items/0e50120318527a928407)
 
 ###Tensor Flow
 * [TensorFlow](http://tensorflow.org/)
@@ -88,3 +56,48 @@
 * [TensorFlowでのMNIST学習結果を、実際に手書きして試す](http://d.hatena.ne.jp/sugyan/20151124/1448292129)
 * [ディープラーニングでおそ松さんの六つ子は見分けられるのか 〜実施編〜](http://bohemia.hatenablog.com/entry/2015/11/22/174603)
 * [TensorFlowによるディープラーニングで、アイドルの顔を識別する](http://d.hatena.ne.jp/sugyan/20160112/1452558576)
+
+##NN
+* [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
+* [alpmestan/hnn](https://github.com/alpmestan/hnn)
+* [Neural networks in Haskell (Lynn)](https://twitter.com/mcarberg/status/664750004742000640)
+* [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
+* [数式で書き下す Maxout Networks](http://blog.yusugomori.com/post/133257383300/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-maxout-networks)
+* [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
+* [ConvnetJS demo: toy 2d classification with 2-layer neural network](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
+* [ロジスティック回帰 (勾配降下法 / 確率的勾配降下法) を可視化する](http://sinhrks.hatenablog.com/entry/2014/11/24/205305)
+
+##CNN
+* [畳み込みニューラルネット](http://www.slideshare.net/ssuser726f56/joi-51681753)
+* [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
+* [数式で書き下す Convolutional Neural Networks (CNN)](http://blog.yusugomori.com/post/129688163130/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-convolutional-neural-networks-cnn)
+* [深層畳み込みニューラルネットワークを用いた画像スケーリング](http://postd.cc/image-scaling-using-deep-convolutional-neural-networks-part1/)
+
+##RNN
+* [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
+* [リカレントニューラルネットなぜ強い？](http://d.hatena.ne.jp/mamoruk/20151209/p1)
+* [Recurrent Neural Networks](http://www.slideshare.net/beam2d/pfi-seminar-20141030rnn)
+* [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+* [Playing with Recurrent Neural Networks in Haskell](http://jpmoresmau.blogspot.jp/2015/08/playing-with-recurrent-neural-networks.html)
+* [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* [TensorFlowチュートリアル - リカレント・ニューラルネットワーク（翻訳）](http://qiita.com/KojiOhki/items/149f96bd98973bd219ac)
+* [ChainerとRNNと機械翻訳](http://qiita.com/odashi_t/items/a1be7c4964fbea6a116e)
+* [ニューラルネットワークで時系列データの予測を行う](http://qiita.com/icoxfog417/items/2791ee878deee0d0fd9c)
+
+###LSTM
+* [LSTMネットワークの概要](http://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca)
+* [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
+* [Chainerで学ぶLSTM](http://kivantium.hateblo.jp/entry/2016/01/31/222050)
+* [RECURRENT NEURAL NETWORK REGULARIZATION](http://arxiv.org/pdf/1409.2329v4.pdf) - Chainer に実装されているLTSM
+
+##word2vec
+* [word2vec](https://code.google.com/p/word2vec/)
+
+##RBM
+* [aeyakovenko/rbm](https://github.com/aeyakovenko/rbm)
+* [RBMから考えるDeep Learning　～黒魔術を添えて～](http://qiita.com/t_Signull/items/f776aecb4909b7c5c116)
+* [制限付きボルツマンマシンの初心者向けガイド](http://postd.cc/a-beginners-guide-to-restricted-boltzmann-machines/)
+* [コンストラスティブ・ダイバージェンス法を用いた制限ボルツマンマシン(RBM)の実装](http://kivantium.hateblo.jp/entry/2015/12/01/000207)
+
+##Functional Programming
+* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
