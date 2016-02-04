@@ -39,6 +39,8 @@
 * [Deep learning勉強会20121214ochi](http://www.slideshare.net/alembert2000/deep-learning20121214ochi)
 * [Deep Learning 勉強会 (Chapter 7-12)](http://www.slideshare.net/alembert2000/deep-learning-chapter-712)
 * [Learning Deep Architectures for AI （第 3 回 Deep Learning 勉強会資料; 松尾）](http://www.slideshare.net/alembert2000/learning-deep-architectures-for-ai-3-deep-learning)
+* [Fast dropout training](http://jmlr.csail.mit.edu/proceedings/papers/v28/wang13a.pdf)
+* [Dropoutの実装と重みの正則化](http://olanleed.hatenablog.com/entry/2013/12/03/010945)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
@@ -117,6 +119,7 @@
 * [ニューラルネットワークで時系列データの予測を行う](http://qiita.com/icoxfog417/items/2791ee878deee0d0fd9c)
 * [再帰型ニューラルネットワーク講義シリーズ・第1部: RNN入門](http://blog.moji.ai/2016/01/%E5%86%8D%E5%B8%B0%E5%9E%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%AC%9B%E7%BE%A9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%BB%E7%AC%AC1/)
 * [論文輪読資料「Gated Feedback Recurrent Neural Networks」](http://www.slideshare.net/kurotaki_weblab/gated-feedback-recurrent-neural-networks)
+  * [最近のDeep Learning (NLP) 界隈におけるAttention事情](http://www.slideshare.net/yutakikuchi927/deep-learning-nlp-attention)
 
 ###LSTM
 * [LSTMネットワークの概要](http://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca)
