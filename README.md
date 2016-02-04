@@ -23,6 +23,7 @@
 * [Bayesian Factorization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/FreudenthalerRendle_BayesianFactorizationMachines.pdf)
 * [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
 * [多クラス分類アルゴリズムの品質メトリック](https://www.xlsoft.com/jp/products/intel/perflib/daal/2016/daal2016_ref/GUID-5220F4E2-3169-40D7-A3B2-CCF10C27B3FE.htm)
+* [Smart classification using Bayesian monads in Haskell](http://www.randomhacks.net/2007/03/03/smart-classification-with-haskell/)
 
 ###単純ベイズ
 * [Bayesian updating of probability distributions](http://www.databozo.com/2013/09/15/Bayesian_updating_of_probability_distributions.html)
