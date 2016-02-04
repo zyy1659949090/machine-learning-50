@@ -13,12 +13,40 @@
 * [深層学習ライブラリのプログラミングモデル](http://www.slideshare.net/yutakashino/ss-56291783)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
 * [計算グラフの微積分：バックプロパゲーションを理解する](http://postd.cc/2015-08-backprop/)
+* [誤差逆伝播法のノート](http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c)
+* [【エヴァンゲリオン】アスカっぽいセリフをDeepLearningで自動生成してみる](http://qiita.com/S346/items/24e875e3c5ac58f55810)
+* [深層学習でツイートの感情分析](http://qiita.com/hogefugabar/items/93fcb2bc27d7b268cbe6)
+* [深層学習でニュース記事を分類する](http://qiita.com/hogefugabar/items/c27ed578717c5e7288c0)
+* [DQNの生い立ち＋Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
+* [DeepLearningの基礎と応用事例](http://www.slideshare.net/Takayosi/deep-learning-seminar)
+* [ニューラルネットワークと深層学習](http://nnadl-ja.github.io/nnadl_site_ja/index.html)
+* [DeepLearning〜使いこなすために知っておきたいこと〜](http://www.slideshare.net/Takayosi/miru2014-tutorial-deeplearning-37219713)
+* [ディープラーニングによる画像認識と応用事例](http://www.slideshare.net/Takayosi/nvidia-51814334)
+* [Deep Learningと画像認識～歴史・理論・実践～](http://www.slideshare.net/nlab_utokyo/deep-learning-40959442)
+* [Deep Learningによる画像認識革命　ー歴史・最新理論から実践応用までー](http://www.slideshare.net/nlab_utokyo/deep-learning-49182466)
+* [ディープラーニングの基礎技術と今後の課題・展望〜画像認識分野を中心に〜](http://www.slideshare.net/nlab_utokyo/20150930-53741757)
+* [DeepLearningの過去と未来〜黒魔術からの脱却へ向けて〜](http://www.slideshare.net/nlab_utokyo/20150414seminar)
+* [画像認識分野でのディープラーニングの研究動向](http://ibisml.org/archive/ibis2013/pdfs/ibis2013-okatani.pdf)
+* [一般向けのDeep Learning](http://www.slideshare.net/pfi/deep-learning-22350063)
+* [Deep Learningの基礎と応用](http://www.slideshare.net/beam2d/deep-learning-52872945)
+* [Deep learning実装の基礎と実践](http://www.slideshare.net/beam2d/deep-learningimplementation)
+* [日本神経回路学会セミナー「DeepLearningを使ってみよう！」資料](http://www.slideshare.net/KentaOono/deeplearning-52072261)
+* [ディープラーニング チュートリアル（もしくは研究動向報告）](http://www.vision.is.tohoku.ac.jp/files/9313/6601/7876/CVIM_tutorial_deep_learning.pdf)
+* [画像認識のための深層学習](http://www.slideshare.net/yomoyamareiji/ss-36982686)
+* [なぜGPUはディープラーニングに向いているか](http://www.slideshare.net/NVIDIAJapan/gpu-51812528)
+* [-SSIIの技術マップ- 過去•現在, そして未来 ［領域］認識](http://www.slideshare.net/hironobufujiyoshi/ssii-35734246)
+* [論文輪読資料「A review of unsupervised feature learning and deep learning for time-series modeling」](http://www.slideshare.net/kaorunasuno/20150416-nasuno-ul)
+* [Deep learning勉強会20121214ochi](http://www.slideshare.net/alembert2000/deep-learning20121214ochi)
+* [Deep Learning 勉強会 (Chapter 7-12)](http://www.slideshare.net/alembert2000/deep-learning-chapter-712)
+* [Learning Deep Architectures for AI （第 3 回 Deep Learning 勉強会資料; 松尾）](http://www.slideshare.net/alembert2000/learning-deep-architectures-for-ai-3-deep-learning)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
   * [Tutorial](http://deeplearning.net/software/theano/tutorial/)
   * [Theanoによる自己符号化器の実装](http://aidiary.hatenablog.com/entry/20151203/1449146680)
   * [DeepLearning Documentation](http://deeplearning.net/tutorial/contents.html)
+  * [Theano の 基本メモ](http://qiita.com/mokemokechicken/items/3fbf6af714c1f66f99e9)
+  * [Theano 解説](http://d.hatena.ne.jp/saket/20121207/1354867911)
 
 ###Chainer
 > 制御構造はすべて Python のものがそのままつかえます。Chainer は、実際に Python のコードを用いて入力配列に何の処理が適用されたかだけを記憶しておき、それを誤差逆伝播の実行に使います。
@@ -27,6 +55,8 @@
 
 * [Chainer](http://chainer.org/) - 公式ドキュメント
 * [Chainer – A flexible framework of neural networks](http://docs.chainer.org/en/stable/)
+* [Chainerの使い方と自然言語処理への応用](http://www.slideshare.net/unnonouno/chainer-55494686)
+* [Chainerを使う場合の全体の流れ](http://www.slideshare.net/ryokuta/chainer-v15-view2015/29)
 * [Chainerで顔イラストの自動生成](http://qiita.com/mattya/items/e5bfe5e04b9d2f0bbd47)
 * [Chainerで学習した対話用のボットをSlackで使用+Twitterから学習データを取得してファインチューニング](http://qiita.com/GushiSnow/items/79ca7deeb976f50126d7)
 * [Chainerでファインチューニングするときの個人的ベストプラクティス](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)
@@ -56,6 +86,7 @@
 * [TensorFlowでのMNIST学習結果を、実際に手書きして試す](http://d.hatena.ne.jp/sugyan/20151124/1448292129)
 * [ディープラーニングでおそ松さんの六つ子は見分けられるのか 〜実施編〜](http://bohemia.hatenablog.com/entry/2015/11/22/174603)
 * [TensorFlowによるディープラーニングで、アイドルの顔を識別する](http://d.hatena.ne.jp/sugyan/20160112/1452558576)
+* [Googleから出た機械学習ライブラリTensorFlowのインストール](http://qiita.com/bohemian916/items/62ef3fe4d90745cc92f6)
 
 ##NN
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
@@ -72,6 +103,7 @@
 * [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
 * [数式で書き下す Convolutional Neural Networks (CNN)](http://blog.yusugomori.com/post/129688163130/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-convolutional-neural-networks-cnn)
 * [深層畳み込みニューラルネットワークを用いた画像スケーリング](http://postd.cc/image-scaling-using-deep-convolutional-neural-networks-part1/)
+* [ディープラーニングにおける様々な物体領域検出のアプローチ方法(R-CNN)](http://qiita.com/t-hiroyoshi/items/e9def50ba2c2249db04b)
 
 ##RNN
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
@@ -83,6 +115,8 @@
 * [TensorFlowチュートリアル - リカレント・ニューラルネットワーク（翻訳）](http://qiita.com/KojiOhki/items/149f96bd98973bd219ac)
 * [ChainerとRNNと機械翻訳](http://qiita.com/odashi_t/items/a1be7c4964fbea6a116e)
 * [ニューラルネットワークで時系列データの予測を行う](http://qiita.com/icoxfog417/items/2791ee878deee0d0fd9c)
+* [再帰型ニューラルネットワーク講義シリーズ・第1部: RNN入門](http://blog.moji.ai/2016/01/%E5%86%8D%E5%B8%B0%E5%9E%8B%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E8%AC%9B%E7%BE%A9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E3%83%BB%E7%AC%AC1/)
+* [論文輪読資料「Gated Feedback Recurrent Neural Networks」](http://www.slideshare.net/kurotaki_weblab/gated-feedback-recurrent-neural-networks)
 
 ###LSTM
 * [LSTMネットワークの概要](http://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca)
@@ -90,8 +124,13 @@
 * [Chainerで学ぶLSTM](http://kivantium.hateblo.jp/entry/2016/01/31/222050)
 * [RECURRENT NEURAL NETWORK REGULARIZATION](http://arxiv.org/pdf/1409.2329v4.pdf) - Chainer に実装されているLTSM
 
-##word2vec
+##Autoencoder
+* [論文輪読資料「Why regularized Auto-Encoders learn Sparse Representation?」DL Hacks](http://www.slideshare.net/kurotaki_weblab/why-regularized-autoencoders-learn-sparse-representationdl-hacks)
+* [ディープラーニング勉強会 AutoEncoder](http://qiita.com/piyo7/items/60576759430910ffe5be)
 * [word2vec](https://code.google.com/p/word2vec/)
+* [【ディープラーニング】ChainerでAutoencoderを試して結果を可視化してみる。](http://qiita.com/kenmatsu4/items/99d4a54d5a57405ecaf8)
+* [Doc2Vecとk-meansで教師なしテキスト分類](http://qiita.com/shima_x/items/196e8d823412e45680e9)
+* [Semi-Supervised Autoencoders for Predicting Sentiment Distributions（第 5 回 Deep Learning 勉強会資料; ダヌシカ）](http://www.slideshare.net/alembert2000/ssrae-sa)
 
 ##RBM
 * [aeyakovenko/rbm](https://github.com/aeyakovenko/rbm)
