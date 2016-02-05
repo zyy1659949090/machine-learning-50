@@ -41,6 +41,7 @@
 * [Learning Deep Architectures for AI （第 3 回 Deep Learning 勉強会資料; 松尾）](http://www.slideshare.net/alembert2000/learning-deep-architectures-for-ai-3-deep-learning)
 * [Fast dropout training](http://jmlr.csail.mit.edu/proceedings/papers/v28/wang13a.pdf)
 * [Dropoutの実装と重みの正則化](http://olanleed.hatenablog.com/entry/2013/12/03/010945)
+* [Multimodal Deep Learning](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Ngiam_399.pdf)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
@@ -125,7 +126,9 @@
 * [LSTMネットワークの概要](http://qiita.com/KojiOhki/items/89cd7b69a8a6239d67ca)
 * [わかるLSTM ～ 最近の動向と共に](http://qiita.com/t_Signull/items/21b82be280b46f467d1b)
 * [Chainerで学ぶLSTM](http://kivantium.hateblo.jp/entry/2016/01/31/222050)
-* [RECURRENT NEURAL NETWORK REGULARIZATION](http://arxiv.org/pdf/1409.2329v4.pdf) - Chainer に実装されているLTSM
+* [RECURRENT NEURAL NETWORK REGULARIZATION](http://arxiv.org/pdf/1409.2329v4.pdf)
+* [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://arxiv.org/abs/1503.00075)
+* [Long Short-Term Memory in Recurrent Neural Networks](http://www.felixgers.de/papers/phd.pdf)
 
 ##Autoencoder
 * [論文輪読資料「Why regularized Auto-Encoders learn Sparse Representation?」DL Hacks](http://www.slideshare.net/kurotaki_weblab/why-regularized-autoencoders-learn-sparse-representationdl-hacks)
