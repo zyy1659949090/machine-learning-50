@@ -190,3 +190,4 @@
 * [MLSS'15 Kyoto](http://www.iip.ist.i.kyoto-u.ac.jp/mlss15/doku.php?id=schedule)
 * [Univariate Distribution Relationships](http://www.math.wm.edu/~leemis/chart/UDR/UDR.html)
 * [Empirical Analysis of Predictive Algorithms for Collaborative Filtering](https://dslpitt.org/uai/papers/98/p43-breese.pdf)
+* [Viva La Resistance! A Resistance Game Solver](https://leepike.wordpress.com/2016/02/08/viva-la-resistance-a-resistance-game-solver/)
