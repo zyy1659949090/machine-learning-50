@@ -43,6 +43,7 @@
 * [Dropoutの実装と重みの正則化](http://olanleed.hatenablog.com/entry/2013/12/03/010945)
 * [Multimodal Deep Learning](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Ngiam_399.pdf)
 * [BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](http://arxiv.org/abs/1602.02830)
+* [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
