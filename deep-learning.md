@@ -43,7 +43,9 @@
 * [Dropoutの実装と重みの正則化](http://olanleed.hatenablog.com/entry/2013/12/03/010945)
 * [Multimodal Deep Learning](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Ngiam_399.pdf)
 * [BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](http://arxiv.org/abs/1602.02830)
+* [BinaryNetとBinarized Deep Neural Network](http://tkng.org/b/2016/02/12/binarynet-and-binarized-neural-network/)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
+* [3D Visualization of a Convolutional Neural Network](http://scs.ryerson.ca/~aharley/vis/conv/)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
@@ -73,6 +75,7 @@
 * [mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN)
 * [Chainerを用いたマルウェア検出への取り組みについて](http://olanleed.hatenablog.com/entry/2015/12/13/215246)
 * [ニューラルネットワークを用いたランク学習(ChainerによるRankNetの実装)](http://qiita.com/sz_dr/items/0e50120318527a928407)
+* [Chainerを使った多層パーセプトロン：関数フィッティング](http://qiita.com/nga_m0m0/items/4191c0f847d1c749fd84)
 
 ###Tensor Flow
 * [TensorFlow](http://tensorflow.org/)
