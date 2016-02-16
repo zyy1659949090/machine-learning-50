@@ -46,6 +46,7 @@
 * [BinaryNetとBinarized Deep Neural Network](http://tkng.org/b/2016/02/12/binarynet-and-binarized-neural-network/)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
 * [3D Visualization of a Convolutional Neural Network](http://scs.ryerson.ca/~aharley/vis/conv/)
+* [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
@@ -113,6 +114,7 @@
 * [数式で書き下す Convolutional Neural Networks (CNN)](http://blog.yusugomori.com/post/129688163130/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-convolutional-neural-networks-cnn)
 * [深層畳み込みニューラルネットワークを用いた画像スケーリング](http://postd.cc/image-scaling-using-deep-convolutional-neural-networks-part1/)
 * [ディープラーニングにおける様々な物体領域検出のアプローチ方法(R-CNN)](http://qiita.com/t-hiroyoshi/items/e9def50ba2c2249db04b)
+* [A Theory of Generative ConvNet](http://www.stat.ucla.edu/~ywu/GenerativeConvNet/main.html)
 
 ##RNN
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
