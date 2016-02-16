@@ -192,3 +192,4 @@
 * [Empirical Analysis of Predictive Algorithms for Collaborative Filtering](https://dslpitt.org/uai/papers/98/p43-breese.pdf)
 * [Viva La Resistance! A Resistance Game Solver](https://leepike.wordpress.com/2016/02/08/viva-la-resistance-a-resistance-game-solver/)
 * [グラフィカルモデルによる確率モデル設計の基本](http://machine-learning.hatenablog.com/entry/2016/02/10/184755)
+* [Encoding Statistical Independence, Statically](https://medium.com/@jaredtobin/encoding-statistical-independence-statically-ec6a714cf24a#.bs4kzynjg)
