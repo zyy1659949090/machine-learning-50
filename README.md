@@ -117,6 +117,7 @@
 * [ImageNet](http://image-net.org/)
 * [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 * [UCF101 - Action Recognition Data Set](http://crcv.ucf.edu/data/UCF101.php)
+* [機械学習でつかう画像を集める作業を少しラクにするツールをつくりました](http://daiiz.hatenablog.com/entry/2016/02/19/235524)
 
 ##Haskell
 * [random-fu](https://hackage.haskell.org/package/random-fu)
