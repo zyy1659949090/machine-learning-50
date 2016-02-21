@@ -61,6 +61,7 @@
 * [friday](https://hackage.haskell.org/package/friday)
   * [RaphaelJ/friday-report](https://github.com/RaphaelJ/friday-report/blob/master/README.md)
 * [cpvrlab/ImagePlay](https://github.com/cpvrlab/ImagePlay)
+* [[OpenCV] いまさら局所特徴量で物体検出！？](http://qiita.com/hmichu/items/f5f1c778a155c7c414fd)
 
 ##音声認識
 * [Improving Speech Recognition in the Browser](http://modernweb.com/2014/03/10/improving-speech-recognition-in-the-browser/)
