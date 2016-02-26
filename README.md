@@ -196,3 +196,4 @@
 * [グラフィカルモデルによる確率モデル設計の基本](http://machine-learning.hatenablog.com/entry/2016/02/10/184755)
 * [Encoding Statistical Independence, Statically](https://medium.com/@jaredtobin/encoding-statistical-independence-statically-ec6a714cf24a#.bs4kzynjg)
 * [多峰性の事前分布ってどうやって作るの？](http://machine-learning.hatenablog.com/entry/2016/02/20/213512)
+* [tweag/sparkle](https://github.com/tweag/sparkle)
