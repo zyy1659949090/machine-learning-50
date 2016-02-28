@@ -49,6 +49,7 @@
 * [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 * [DQNの生い立ち　＋　Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
 * [生成モデルの Deep Learning](http://www.slideshare.net/beam2d/learning-generator)
+* [ディープラーニングであり得そうな間取り画像を生成させてみる](http://nextdeveloper.hatenablog.com/entry/2016/02/26/211332)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
