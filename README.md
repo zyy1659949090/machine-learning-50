@@ -197,3 +197,4 @@
 * [Encoding Statistical Independence, Statically](https://medium.com/@jaredtobin/encoding-statistical-independence-statically-ec6a714cf24a#.bs4kzynjg)
 * [多峰性の事前分布ってどうやって作るの？](http://machine-learning.hatenablog.com/entry/2016/02/20/213512)
 * [tweag/sparkle](https://github.com/tweag/sparkle)
+* [Testing the Super User Spark with HSpec](http://cs-syd.eu/posts/2016-02-28-testing-the-super-user-spark-with-hspec.html)
