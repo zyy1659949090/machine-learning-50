@@ -198,3 +198,8 @@
 * [多峰性の事前分布ってどうやって作るの？](http://machine-learning.hatenablog.com/entry/2016/02/20/213512)
 * [tweag/sparkle](https://github.com/tweag/sparkle)
 * [Testing the Super User Spark with HSpec](http://cs-syd.eu/posts/2016-02-28-testing-the-super-user-spark-with-hspec.html)
+* [ランダムフォレスト](http://www.slideshare.net/HitoshiHabe/ss-58784421)
+* [マルウェアを機械学習する前に](https://speakerdeck.com/ntddk/maruueawoji-jie-xue-xi-suruqian-ni)
+* [Bayesian Neural Network in PyMC3](https://gist.github.com/twiecki/14694749b5f85e89b246)
+* [音割れ音源、機械学習で復元したくない？その1 〜短時間フーリエ変換と近接勾配法〜](http://cocu.hatenablog.com/entry/2016/02/29/212129)
+* [Fast R-CNN](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
