@@ -203,3 +203,4 @@
 * [Bayesian Neural Network in PyMC3](https://gist.github.com/twiecki/14694749b5f85e89b246)
 * [音割れ音源、機械学習で復元したくない？その1 〜短時間フーリエ変換と近接勾配法〜](http://cocu.hatenablog.com/entry/2016/02/29/212129)
 * [Fast R-CNN](http://tutorial.caffe.berkeleyvision.org/caffe-cvpr15-detection.pdf)
+* [アニメでわかるベイズ推論によるパラメータ学習](http://machine-learning.hatenablog.com/entry/2016/03/02/071025)
