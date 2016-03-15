@@ -50,6 +50,7 @@
 * [DQNの生い立ち　＋　Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
 * [生成モデルの Deep Learning](http://www.slideshare.net/beam2d/learning-generator)
 * [ディープラーニングであり得そうな間取り画像を生成させてみる](http://nextdeveloper.hatenablog.com/entry/2016/02/26/211332)
+* [Neural Networkでの失敗経験やアンチパターンを語る](http://nonbiri-tereka.hatenablog.com/entry/2016/03/10/073633)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
@@ -118,6 +119,7 @@
 * [深層畳み込みニューラルネットワークを用いた画像スケーリング](http://postd.cc/image-scaling-using-deep-convolutional-neural-networks-part1/)
 * [ディープラーニングにおける様々な物体領域検出のアプローチ方法(R-CNN)](http://qiita.com/t-hiroyoshi/items/e9def50ba2c2249db04b)
 * [A Theory of Generative ConvNet](http://www.stat.ucla.edu/~ywu/GenerativeConvNet/main.html)
+* [自然言語処理における畳み込みニューラルネットワークを理解する](http://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/)
 
 ##RNN
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
