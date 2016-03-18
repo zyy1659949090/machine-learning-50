@@ -207,3 +207,5 @@
 * [The Intersection of Machine Learning, Types and Testing](https://www.youtube.com/watch?v=czZ18YtZlaw)
 * [グラフィカルモデルを使いこなす！～転移学習を表現してみる～](http://machine-learning.hatenablog.com/entry/2016/03/14/191740)
 * [autumnai/leaf](https://github.com/autumnai/leaf)
+* [オンライン線形分類器とSCW](http://kazoo04.hatenablog.com/entry/2012/12/20/000000)
+* [SensorBeeとは何か？](http://qiita.com/rkyymmt@github/items/4fb2002b167c88c85d55)
