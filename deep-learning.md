@@ -51,6 +51,10 @@
 * [生成モデルの Deep Learning](http://www.slideshare.net/beam2d/learning-generator)
 * [ディープラーニングであり得そうな間取り画像を生成させてみる](http://nextdeveloper.hatenablog.com/entry/2016/02/26/211332)
 * [Neural Networkでの失敗経験やアンチパターンを語る](http://nonbiri-tereka.hatenablog.com/entry/2016/03/10/073633)
+* [深層学習フレームワークChainerの特徴](http://www.slideshare.net/unnonouno/chainer-59664785)
+* [自然言語処理における畳み込みニューラルネットワークを理解する](https://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/)
+* [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167)
+* [Embedding by Normalisation](http://arxiv.org/abs/1603.05197)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
