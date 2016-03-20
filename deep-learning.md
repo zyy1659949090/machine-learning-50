@@ -85,6 +85,7 @@
 * [Chainerを用いたマルウェア検出への取り組みについて](http://olanleed.hatenablog.com/entry/2015/12/13/215246)
 * [ニューラルネットワークを用いたランク学習(ChainerによるRankNetの実装)](http://qiita.com/sz_dr/items/0e50120318527a928407)
 * [Chainerを使った多層パーセプトロン：関数フィッティング](http://qiita.com/nga_m0m0/items/4191c0f847d1c749fd84)
+* [Chainerのテスト環境とDockerでのCUDAの利用](http://www.slideshare.net/unnonouno/chainerdockercuda)
 
 ###Tensor Flow
 * [TensorFlow](http://tensorflow.org/)
