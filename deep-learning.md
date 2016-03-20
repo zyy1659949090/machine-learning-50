@@ -4,24 +4,15 @@
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Deep Learningと音声認識](https://research.preferred.jp/2015/07/deep-learning-speech-recognition/)
 * [自然言語処理のためのDeep Learning](http://www.slideshare.net/yutakikuchi927/deep-learning-26647407)
-* [Deep learning via Hessian-free optimization](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_Martens10.pdf)
 * [Deep learning](http://www.slideshare.net/kazoo04/deep-learning-15097274)
 * [一般向けのDeep Learning](http://www.slideshare.net/pfi/deep-learning-22350063)
 * [andrewt3000/DL4NLP](https://github.com/andrewt3000/DL4NLP)
 * [New ‘deep learning’ technique enables robot mastery of skills via trial and error](http://newscenter.berkeley.edu/2015/05/21/deep-learning-robot-masters-skills-via-trial-and-error/)
-* [ニコニコ動画の公開コメントデータをDeep Learningで解析する](http://qiita.com/ixixi/items/a3d56b2db6e09249a519)
 * [深層学習ライブラリのプログラミングモデル](http://www.slideshare.net/yutakashino/ss-56291783)
 * [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
-* [計算グラフの微積分：バックプロパゲーションを理解する](http://postd.cc/2015-08-backprop/)
-* [誤差逆伝播法のノート](http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c)
-* [【エヴァンゲリオン】アスカっぽいセリフをDeepLearningで自動生成してみる](http://qiita.com/S346/items/24e875e3c5ac58f55810)
-* [深層学習でツイートの感情分析](http://qiita.com/hogefugabar/items/93fcb2bc27d7b268cbe6)
-* [深層学習でニュース記事を分類する](http://qiita.com/hogefugabar/items/c27ed578717c5e7288c0)
-* [DQNの生い立ち＋Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
 * [DeepLearningの基礎と応用事例](http://www.slideshare.net/Takayosi/deep-learning-seminar)
 * [ニューラルネットワークと深層学習](http://nnadl-ja.github.io/nnadl_site_ja/index.html)
 * [DeepLearning〜使いこなすために知っておきたいこと〜](http://www.slideshare.net/Takayosi/miru2014-tutorial-deeplearning-37219713)
-* [ディープラーニングによる画像認識と応用事例](http://www.slideshare.net/Takayosi/nvidia-51814334)
 * [Deep Learningと画像認識～歴史・理論・実践～](http://www.slideshare.net/nlab_utokyo/deep-learning-40959442)
 * [Deep Learningによる画像認識革命　ー歴史・最新理論から実践応用までー](http://www.slideshare.net/nlab_utokyo/deep-learning-49182466)
 * [ディープラーニングの基礎技術と今後の課題・展望〜画像認識分野を中心に〜](http://www.slideshare.net/nlab_utokyo/20150930-53741757)
@@ -39,22 +30,28 @@
 * [Deep learning勉強会20121214ochi](http://www.slideshare.net/alembert2000/deep-learning20121214ochi)
 * [Deep Learning 勉強会 (Chapter 7-12)](http://www.slideshare.net/alembert2000/deep-learning-chapter-712)
 * [Learning Deep Architectures for AI （第 3 回 Deep Learning 勉強会資料; 松尾）](http://www.slideshare.net/alembert2000/learning-deep-architectures-for-ai-3-deep-learning)
+* [Multimodal Deep Learning](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Ngiam_399.pdf)
+* [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
+* [生成モデルの Deep Learning](http://www.slideshare.net/beam2d/learning-generator)
+* [Neural Networkでの失敗経験やアンチパターンを語る](http://nonbiri-tereka.hatenablog.com/entry/2016/03/10/073633)
+* [自然言語処理における畳み込みニューラルネットワークを理解する](https://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/)
+
+##基礎
+* **Back Propagation**
+* [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+* [計算グラフの微積分：バックプロパゲーションを理解する](http://postd.cc/2015-08-backprop/)
+* [誤差逆伝播法のノート](http://qiita.com/Ugo-Nama/items/04814a13c9ea84978a4c)
+* ** Dropout **
 * [Fast dropout training](http://jmlr.csail.mit.edu/proceedings/papers/v28/wang13a.pdf)
 * [Dropoutの実装と重みの正則化](http://olanleed.hatenablog.com/entry/2013/12/03/010945)
-* [Multimodal Deep Learning](http://machinelearning.wustl.edu/mlpapers/paper_files/ICML2011Ngiam_399.pdf)
-* [BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](http://arxiv.org/abs/1602.02830)
-* [BinaryNetとBinarized Deep Neural Network](http://tkng.org/b/2016/02/12/binarynet-and-binarized-neural-network/)
-* [DeepLearningを使った実装を纏めてみた](http://nonbiri-tereka.hatenablog.com/entry/2015/12/17/004410)
-* [3D Visualization of a Convolutional Neural Network](http://scs.ryerson.ca/~aharley/vis/conv/)
-* [A Step by Step Backpropagation Example](http://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
-* [DQNの生い立ち　＋　Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
-* [生成モデルの Deep Learning](http://www.slideshare.net/beam2d/learning-generator)
-* [ディープラーニングであり得そうな間取り画像を生成させてみる](http://nextdeveloper.hatenablog.com/entry/2016/02/26/211332)
-* [Neural Networkでの失敗経験やアンチパターンを語る](http://nonbiri-tereka.hatenablog.com/entry/2016/03/10/073633)
-* [深層学習フレームワークChainerの特徴](http://www.slideshare.net/unnonouno/chainer-59664785)
-* [自然言語処理における畳み込みニューラルネットワークを理解する](https://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/)
+* ** Batch Normalization **
 * [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](http://arxiv.org/abs/1502.03167)
 * [Embedding by Normalisation](http://arxiv.org/abs/1603.05197)
+
+##BinaryNet
+* [BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1](http://arxiv.org/abs/1602.02830)
+* [BinaryNetとBinarized Deep Neural Network](http://tkng.org/b/2016/02/12/binarynet-and-binarized-neural-network/)
+* [全探索によるニューラルネットワーク最適化の実験](http://kivantium.hateblo.jp/entry/2016/03/14/234939)
 
 ##Tools & Tutorials
 * [Theano](http://deeplearning.net/software/theano/)
@@ -78,7 +75,6 @@
 * [Chainerでファインチューニングするときの個人的ベストプラクティス](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)
 * [【機械学習】ディープラーニング フレームワークChainerを試しながら解説してみる。](http://qiita.com/kenmatsu4/items/7b8d24d4c5144a686412)
 * [【ディープラーニング】ChainerでAutoencoderを試して結果を可視化してみる。](http://qiita.com/kenmatsu4/items/99d4a54d5a57405ecaf8)
-* [Chainerを使ってコンピュータにイラストを描かせる](http://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc)
 * [Chainer入門と最近の機能](http://www.slideshare.net/unnonouno/chainer-56292907)
 * [ChainerとRNNと機械翻訳](http://qiita.com/odashi_t/items/a1be7c4964fbea6a116e)
 * [mattya/chainer-DCGAN](https://github.com/mattya/chainer-DCGAN)
@@ -86,6 +82,8 @@
 * [ニューラルネットワークを用いたランク学習(ChainerによるRankNetの実装)](http://qiita.com/sz_dr/items/0e50120318527a928407)
 * [Chainerを使った多層パーセプトロン：関数フィッティング](http://qiita.com/nga_m0m0/items/4191c0f847d1c749fd84)
 * [Chainerのテスト環境とDockerでのCUDAの利用](http://www.slideshare.net/unnonouno/chainerdockercuda)
+* [深層学習フレームワークChainerの特徴](http://www.slideshare.net/unnonouno/chainer-59664785)
+* [DQNの生い立ち＋Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
 
 ###Tensor Flow
 * [TensorFlow](http://tensorflow.org/)
@@ -102,10 +100,20 @@
 * [TensorFlowチュートリアル - 画像認識（翻訳）](http://qiita.com/KojiOhki/items/dab6922b6cd7b990c002)
 * [TensorFlowをscikit-learnライクに使えるskflow](http://qiita.com/icoxfog417/items/9d052b556bd8a4074e4a)
 * [TensorFlowでのMNIST学習結果を、実際に手書きして試す](http://d.hatena.ne.jp/sugyan/20151124/1448292129)
-* [ディープラーニングでおそ松さんの六つ子は見分けられるのか 〜実施編〜](http://bohemia.hatenablog.com/entry/2015/11/22/174603)
-* [TensorFlowによるディープラーニングで、アイドルの顔を識別する](http://d.hatena.ne.jp/sugyan/20160112/1452558576)
 * [Googleから出た機械学習ライブラリTensorFlowのインストール](http://qiita.com/bohemian916/items/62ef3fe4d90745cc92f6)
 * [Distributed TensorFlowの話](http://qiita.com/kazunori279/items/981a8a2a44f5d1172856)
+
+##事例
+* [ディープラーニングによる画像認識と応用事例](http://www.slideshare.net/Takayosi/nvidia-51814334)
+* [ディープラーニングでおそ松さんの六つ子は見分けられるのか 〜実施編〜](http://bohemia.hatenablog.com/entry/2015/11/22/174603)
+* [TensorFlowによるディープラーニングで、アイドルの顔を識別する](http://d.hatena.ne.jp/sugyan/20160112/1452558576)
+* [ディープラーニングであり得そうな間取り画像を生成させてみる](http://nextdeveloper.hatenablog.com/entry/2016/02/26/211332)
+* [ニコニコ動画の公開コメントデータをDeep Learningで解析する](http://qiita.com/ixixi/items/a3d56b2db6e09249a519)
+* [【エヴァンゲリオン】アスカっぽいセリフをDeepLearningで自動生成してみる](http://qiita.com/S346/items/24e875e3c5ac58f55810)
+* [深層学習でニュース記事を分類する](http://qiita.com/hogefugabar/items/c27ed578717c5e7288c0)
+* [深層学習でツイートの感情分析](http://qiita.com/hogefugabar/items/93fcb2bc27d7b268cbe6)
+* [Chainerを使ってコンピュータにイラストを描かせる](http://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc)
+* [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
 
 ##NN
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
@@ -118,8 +126,8 @@
 * [ロジスティック回帰 (勾配降下法 / 確率的勾配降下法) を可視化する](http://sinhrks.hatenablog.com/entry/2014/11/24/205305)
 
 ##CNN
+* [3D Visualization of a Convolutional Neural Network](http://scs.ryerson.ca/~aharley/vis/conv/)
 * [畳み込みニューラルネット](http://www.slideshare.net/ssuser726f56/joi-51681753)
-* [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
 * [数式で書き下す Convolutional Neural Networks (CNN)](http://blog.yusugomori.com/post/129688163130/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-convolutional-neural-networks-cnn)
 * [深層畳み込みニューラルネットワークを用いた画像スケーリング](http://postd.cc/image-scaling-using-deep-convolutional-neural-networks-part1/)
 * [ディープラーニングにおける様々な物体領域検出のアプローチ方法(R-CNN)](http://qiita.com/t-hiroyoshi/items/e9def50ba2c2249db04b)
