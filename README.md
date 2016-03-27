@@ -211,3 +211,4 @@
 * [SensorBeeとは何か？](http://qiita.com/rkyymmt@github/items/4fb2002b167c88c85d55)
 * [異常検知アルゴリズム紹介](http://www.janog.gr.jp/meeting/janog21/agenda/detail/presentation/traffic-harada.pdf)
 * [ネットワーク分析ライブラリiGraphをPythonから使うための準備（Macの場合）](http://statsbeginner.hatenablog.com/entry/2016/03/21/031409)
+* [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
