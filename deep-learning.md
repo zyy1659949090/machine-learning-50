@@ -35,6 +35,8 @@
 * [生成モデルの Deep Learning](http://www.slideshare.net/beam2d/learning-generator)
 * [Neural Networkでの失敗経験やアンチパターンを語る](http://nonbiri-tereka.hatenablog.com/entry/2016/03/10/073633)
 * [自然言語処理における畳み込みニューラルネットワークを理解する](https://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/)
+* [ニューラルネットと脳の違いが知りたくて](http://ntddk.github.io/2016/03/21/book-guide-for-computational-neuroscience/)
+* [ディープラーニングと多様体学習](http://s0sem0y.hatenablog.com/entry/2016/03/17/155119)
 
 ##基礎
 * **Back Propagation**
@@ -114,6 +116,7 @@
 * [深層学習でツイートの感情分析](http://qiita.com/hogefugabar/items/93fcb2bc27d7b268cbe6)
 * [Chainerを使ってコンピュータにイラストを描かせる](http://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc)
 * [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
+* [ディープラーニングを使って商品カテゴリの分類をしてみました](https://speakerdeck.com/shiozaki/classify-fashion-items-by-using-deep-learning)
 
 ##NN
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
