@@ -1,4 +1,11 @@
 * [Deep Learning](deep-learning.md)
+* [全脳アーキテクチャ勉強会](http://www.sig-agi.org/wba)
+
+##クラウド
+* [Google Cloud Platform](https://cloud.google.com/products/machine-learning/)
+* [Microsoft Azure Machine Learning](https://azure.microsoft.com/ja-jp/services/machine-learning/)
+* [Amazon Machine Learning](https://aws.amazon.com/jp/machine-learning/)
+  * [Azure Machine Learning できるとこまでやってみよう Vol.1](http://sadynitro.hatenablog.jp/entry/2015/04/11/191614)
 
 ##自然言語処理
 * [Google Ngram Viewer](https://books.google.com/ngrams)
@@ -213,3 +220,7 @@
 * [ネットワーク分析ライブラリiGraphをPythonから使うための準備（Macの場合）](http://statsbeginner.hatenablog.com/entry/2016/03/21/031409)
 * [Boltzmann sampling for generic Arbitrary instances](https://byorgey.wordpress.com/2016/03/23/boltzmann-sampling-for-generic-arbitrary-instances/)
 * [ややこしい離散分布に関するまとめ](http://machine-learning.hatenablog.com/entry/2016/03/26/211106)
+* [[機械学習] AmazonのItem-to-ItemレコメンドをPythonで実装する](http://www.yoheim.net/blog.php?q=20160313)
+* [トピックモデルの評価指標 Perplexity とは何なのか？](http://www.slideshare.net/hoxo_m/perplexity)
+* [現実世界での機械学習によるアノマリ検知システムの構築と回避 by Clarence Chio](http://www.slideshare.net/codeblue_jp/by-clarence-chio-code-blue-2015)
+* [Hivemallを利用した機械学習実践入門 （第一回: ドラッグストアのセールス予測）](http://blog-jp.treasuredata.com/entry/hivemall_kaggle_rossmann_1)
