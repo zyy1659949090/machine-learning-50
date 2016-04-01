@@ -2,7 +2,9 @@
 * [全脳アーキテクチャ勉強会](http://www.sig-agi.org/wba)
 
 ##クラウド
+* [クラウド機械学習の進歩で「プラモデルのように機械学習システムが作れる」時代が到来しつつある](http://tjo.hatenablog.com/entry/2016/03/24/190000)
 * [Google Cloud Platform](https://cloud.google.com/products/machine-learning/)
+  * [Googleが自社で使っている「クラウド機械学習」を一般に開放、こんなスゴイことが簡単にできる](http://gigazine.net/news/20160324-google-cloud-machine-learning/)
 * [Microsoft Azure Machine Learning](https://azure.microsoft.com/ja-jp/services/machine-learning/)
 * [Amazon Machine Learning](https://aws.amazon.com/jp/machine-learning/)
   * [Azure Machine Learning できるとこまでやってみよう Vol.1](http://sadynitro.hatenablog.jp/entry/2015/04/11/191614)
