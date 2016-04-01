@@ -21,6 +21,7 @@
 * [The swift-lda package](https://hackage.haskell.org/package/swift-lda)
 * [The chatter package](https://hackage.haskell.org/package/chatter)
 * [自然言語処理のための変分ベイズ法](http://chasen.org/~daiti-m/paper/vb-nlp-tutorial.pdf)
+* [意味表現の素性への構造主義的アプローチ入門](http://www.slideshare.net/kaikunir/ss-60043052)
 
 ###形態素解析
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
