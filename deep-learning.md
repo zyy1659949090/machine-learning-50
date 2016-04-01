@@ -37,6 +37,9 @@
 * [自然言語処理における畳み込みニューラルネットワークを理解する](https://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/)
 * [ニューラルネットと脳の違いが知りたくて](http://ntddk.github.io/2016/03/21/book-guide-for-computational-neuroscience/)
 * [ディープラーニングと多様体学習](http://s0sem0y.hatenablog.com/entry/2016/03/17/155119)
+* [Deep Learning技術の今](http://www.slideshare.net/beam2d/deep-learning20140130)
+* [深層学習ライブラリ Keras](http://aidiary.hatenablog.com/entry/20160328/1459174455)
+* [【ディープラーニング】最新のディープラーニングを一通りさらっておく](http://esu-ko.hatenablog.com/entry/2016/03/29/%E3%80%90%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%80%91%E6%9C%80%E6%96%B0%E3%81%AE%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3)
 
 ##基礎
 * **Back Propagation**
@@ -117,6 +120,10 @@
 * [Chainerを使ってコンピュータにイラストを描かせる](http://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc)
 * [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
 * [ディープラーニングを使って商品カテゴリの分類をしてみました](https://speakerdeck.com/shiozaki/classify-fashion-items-by-using-deep-learning)
+* [TensorFlowでのDeep Learningによるアイドルの顔識別 のためのデータ作成](http://d.hatena.ne.jp/sugyan/20160328/1459094743)
+* [ディープラーニング（TensorFlow）を使用した株価予想](http://qiita.com/yai/items/5ec5bbfbcc53c9770c40)
+* [ディープラーニング（TensorFlow）を使用した株価予想 ～その2～](http://qiita.com/yai/items/8c0ad280cc2f53e40256)
+* [Machine Learning with Financial Time Series Data](https://cloud.google.com/solutions/machine-learning-with-financial-time-series-data)
 
 ##NN
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
@@ -136,6 +143,7 @@
 * [ディープラーニングにおける様々な物体領域検出のアプローチ方法(R-CNN)](http://qiita.com/t-hiroyoshi/items/e9def50ba2c2249db04b)
 * [A Theory of Generative ConvNet](http://www.stat.ucla.edu/~ywu/GenerativeConvNet/main.html)
 * [自然言語処理における畳み込みニューラルネットワークを理解する](http://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/)
+* [Deep Learningライブラリ{mxnet}のR版でConvolutional Neural Networkをサクッと試してみた](http://tjo.hatenablog.com/entry/2016/03/29/180000)
 
 ##RNN
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
