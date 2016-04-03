@@ -40,6 +40,8 @@
 * [Deep Learning技術の今](http://www.slideshare.net/beam2d/deep-learning20140130)
 * [深層学習ライブラリ Keras](http://aidiary.hatenablog.com/entry/20160328/1459174455)
 * [【ディープラーニング】最新のディープラーニングを一通りさらっておく](http://esu-ko.hatenablog.com/entry/2016/03/29/%E3%80%90%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%80%91%E6%9C%80%E6%96%B0%E3%81%AE%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3)
+* [Deep Learningライブラリ「MXNet」のR版をKaggle Otto Challengeで実践してみた](http://keiku.hatenablog.jp/entry/2016/03/31/172456)
+* [PTGH：機械学習パラメータチューニングをDeep LearningとMCMCで高速に最適化するフレームワーク](http://tjo.hatenablog.com/entry/2016/04/01/003000)
 
 ##基礎
 * **Back Propagation**
