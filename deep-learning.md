@@ -109,6 +109,7 @@
 * [TensorFlowでのMNIST学習結果を、実際に手書きして試す](http://d.hatena.ne.jp/sugyan/20151124/1448292129)
 * [Googleから出た機械学習ライブラリTensorFlowのインストール](http://qiita.com/bohemian916/items/62ef3fe4d90745cc92f6)
 * [Distributed TensorFlowの話](http://qiita.com/kazunori279/items/981a8a2a44f5d1172856)
+* [TFLearn: Deep learning library featuring a higher-level API for TensorFlow.](http://tflearn.org/)
 
 ##事例
 * [ディープラーニングによる画像認識と応用事例](http://www.slideshare.net/Takayosi/nvidia-51814334)
