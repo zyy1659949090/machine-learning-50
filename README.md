@@ -227,3 +227,4 @@
 * [トピックモデルの評価指標 Perplexity とは何なのか？](http://www.slideshare.net/hoxo_m/perplexity)
 * [現実世界での機械学習によるアノマリ検知システムの構築と回避 by Clarence Chio](http://www.slideshare.net/codeblue_jp/by-clarence-chio-code-blue-2015)
 * [Hivemallを利用した機械学習実践入門 （第一回: ドラッグストアのセールス予測）](http://blog-jp.treasuredata.com/entry/hivemall_kaggle_rossmann_1)
+* [パターン認識研究者のためのトピックモデリング概観](http://www.slideshare.net/KatsuhikoIshiguro/20151221-public)
