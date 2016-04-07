@@ -42,6 +42,11 @@
 * [【ディープラーニング】最新のディープラーニングを一通りさらっておく](http://esu-ko.hatenablog.com/entry/2016/03/29/%E3%80%90%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%80%91%E6%9C%80%E6%96%B0%E3%81%AE%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3)
 * [Deep Learningライブラリ「MXNet」のR版をKaggle Otto Challengeで実践してみた](http://keiku.hatenablog.jp/entry/2016/03/31/172456)
 * [PTGH：機械学習パラメータチューニングをDeep LearningとMCMCで高速に最適化するフレームワーク](http://tjo.hatenablog.com/entry/2016/04/01/003000)
+* [Music Language Modeling with Recurrent Neural Networks](http://yoavz.com/music_rnn/)
+* [Deep Networks with Stochastic Depth](http://arxiv.org/abs/1603.09382#)
+* [Generating Large Images from Latent Vectors](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
+* [Deep Reinforcement Learning from Self-Play in Imperfect-Information Games](http://arxiv.org/abs/1603.01121v1#)
+* [Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks](http://www.mit.edu/~sze/eyeriss.html)
 
 ##基礎
 * **Back Propagation**
@@ -124,9 +129,8 @@
 * [画風を変換するアルゴリズム](https://research.preferred.jp/2015/09/chainer-gogh/)
 * [ディープラーニングを使って商品カテゴリの分類をしてみました](https://speakerdeck.com/shiozaki/classify-fashion-items-by-using-deep-learning)
 * [TensorFlowでのDeep Learningによるアイドルの顔識別 のためのデータ作成](http://d.hatena.ne.jp/sugyan/20160328/1459094743)
-* [ディープラーニング（TensorFlow）を使用した株価予想](http://qiita.com/yai/items/5ec5bbfbcc53c9770c40)
-* [ディープラーニング（TensorFlow）を使用した株価予想 ～その2～](http://qiita.com/yai/items/8c0ad280cc2f53e40256)
 * [Machine Learning with Financial Time Series Data](https://cloud.google.com/solutions/machine-learning-with-financial-time-series-data)
+* [Chainerで画像のキャプション生成](http://qiita.com/dsanno/items/b237482087207d0364c3)
 
 ##NN
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
