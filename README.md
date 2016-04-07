@@ -3,7 +3,10 @@
 
 ##クラウド
 * [クラウド機械学習の進歩で「プラモデルのように機械学習システムが作れる」時代が到来しつつある](http://tjo.hatenablog.com/entry/2016/03/24/190000)
+* [(主に)ディープラーニングの成果を利用したAPI集(自分用)](http://qiita.com/shngt/items/966799cc3f7c77a6fa17)
 * [Google Cloud Platform](https://cloud.google.com/products/machine-learning/)
+  * [CLOUD VISION API](https://cloud.google.com/vision/?hl=ja)
+  * [有害な画像に機械学習？Cloud Vision APIを使ってみる](http://design-lab.tuqulore.com/safety_image_upload_form_design/)
   * [Googleが自社で使っている「クラウド機械学習」を一般に開放、こんなスゴイことが簡単にできる](http://gigazine.net/news/20160324-google-cloud-machine-learning/)
 * [Microsoft Azure Machine Learning](https://azure.microsoft.com/ja-jp/services/machine-learning/)
 * [Amazon Machine Learning](https://aws.amazon.com/jp/machine-learning/)
@@ -43,6 +46,7 @@
 ###K-means 法
 * [Example] [k-means clustering example using iris data set](https://gist.github.com/lotz84/b1be4d851b45de6c2243)
 * [K-means 法を D3.js でビジュアライズしてみた](http://tech.nitoyon.com/ja/blog/2013/11/07/k-means/)
+* [今日から使える！ みんなのクラスタリング超入門](http://www.slideshare.net/toilet_lunch/ss-7684979)
 
 ###SVM
 * [A User’s Guide to Support Vector Machines](http://pyml.sourceforge.net/doc/howto.pdf)
@@ -72,6 +76,7 @@
   * [RaphaelJ/friday-report](https://github.com/RaphaelJ/friday-report/blob/master/README.md)
 * [cpvrlab/ImagePlay](https://github.com/cpvrlab/ImagePlay)
 * [[OpenCV] いまさら局所特徴量で物体検出！？](http://qiita.com/hmichu/items/f5f1c778a155c7c414fd)
+* [HOG特徴量とSVMを使った自動車の検出](http://96n.hatenablog.com/entry/2016/01/23/100311)
 
 ##音声認識
 * [Improving Speech Recognition in the Browser](http://modernweb.com/2014/03/10/improving-speech-recognition-in-the-browser/)
@@ -229,3 +234,4 @@
 * [Hivemallを利用した機械学習実践入門 （第一回: ドラッグストアのセールス予測）](http://blog-jp.treasuredata.com/entry/hivemall_kaggle_rossmann_1)
 * [パターン認識研究者のためのトピックモデリング概観](http://www.slideshare.net/KatsuhikoIshiguro/20151221-public)
 * [lda2vec – flexible & interpretable NLP models](http://lda2vec.readthedocs.org/en/latest/)
+* [4コマ漫画の画像管理](http://mzp.hatenablog.com/entry/2016/04/04/230054)
