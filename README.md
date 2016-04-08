@@ -235,3 +235,5 @@
 * [パターン認識研究者のためのトピックモデリング概観](http://www.slideshare.net/KatsuhikoIshiguro/20151221-public)
 * [lda2vec – flexible & interpretable NLP models](http://lda2vec.readthedocs.org/en/latest/)
 * [4コマ漫画の画像管理](http://mzp.hatenablog.com/entry/2016/04/04/230054)
+* [jmschrei/yahmm](https://github.com/jmschrei/yahmm)
+* [パッケージユーザーのための機械学習(11)：番外編 - AdaBoost](http://tjo.hatenablog.com/entry/2014/11/28/190314)
