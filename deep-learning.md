@@ -47,6 +47,8 @@
 * [Generating Large Images from Latent Vectors](http://blog.otoro.net/2016/04/01/generating-large-images-from-latent-vectors/)
 * [Deep Reinforcement Learning from Self-Play in Imperfect-Information Games](http://arxiv.org/abs/1603.01121v1#)
 * [Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks](http://www.mit.edu/~sze/eyeriss.html)
+* [Theano: DeepLearning : 感情分析のための LSTM](http://rnn.classcat.com/2016/03/31/deeplearning-tutorial-lstm/)
+* [deepjazz](https://jisungk.github.io/deepjazz/)
 
 ##基礎
 * **Back Propagation**
