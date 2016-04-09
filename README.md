@@ -237,3 +237,4 @@
 * [4コマ漫画の画像管理](http://mzp.hatenablog.com/entry/2016/04/04/230054)
 * [jmschrei/yahmm](https://github.com/jmschrei/yahmm)
 * [パッケージユーザーのための機械学習(11)：番外編 - AdaBoost](http://tjo.hatenablog.com/entry/2014/11/28/190314)
+* [Twitterスケールでの弾力的な広告配信](https://blog.twitter.com/ja/2016/0407adssystem)
