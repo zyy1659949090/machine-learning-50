@@ -135,6 +135,7 @@
 * [Machine Learning with Financial Time Series Data](https://cloud.google.com/solutions/machine-learning-with-financial-time-series-data)
 * [Chainerで画像のキャプション生成](http://qiita.com/dsanno/items/b237482087207d0364c3)
 * [Deep3D: Automatic 2D-to-3D Video Conversion with CNNs](http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html)
+* [VISUAL LOCALISATION](http://mi.eng.cam.ac.uk/projects/relocalisation/)
 
 ##NN
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
