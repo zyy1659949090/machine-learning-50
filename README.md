@@ -238,3 +238,4 @@
 * [jmschrei/yahmm](https://github.com/jmschrei/yahmm)
 * [パッケージユーザーのための機械学習(11)：番外編 - AdaBoost](http://tjo.hatenablog.com/entry/2014/11/28/190314)
 * [Twitterスケールでの弾力的な広告配信](https://blog.twitter.com/ja/2016/0407adssystem)
+* [Bayesian Optimizationに関するメモ](https://tkng.org/b/2015/07/31/bayesian-optimization/)
