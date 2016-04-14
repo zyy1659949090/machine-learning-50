@@ -50,6 +50,8 @@
 * [Theano: DeepLearning : 感情分析のための LSTM](http://rnn.classcat.com/2016/03/31/deeplearning-tutorial-lstm/)
 * [deepjazz](https://jisungk.github.io/deepjazz/)
 * [rewonc/pastalog](https://github.com/rewonc/pastalog)
+* [A Neural Network Playground](http://playground.tensorflow.org/)
+* [「TensorFlow Tutorialの数学的背景」 クイックツアー（パート1）](http://www.slideshare.net/enakai/tensorflow-tutrial-1)
 
 ##基礎
 * **Back Propagation**
