@@ -239,3 +239,6 @@
 * [パッケージユーザーのための機械学習(11)：番外編 - AdaBoost](http://tjo.hatenablog.com/entry/2014/11/28/190314)
 * [Twitterスケールでの弾力的な広告配信](https://blog.twitter.com/ja/2016/0407adssystem)
 * [Bayesian Optimizationに関するメモ](https://tkng.org/b/2015/07/31/bayesian-optimization/)
+* [Apache Spark の革命的リアルタイム用法](https://www.hadoop-times.com/game-changing-real-time-uses-for-apache-spark.html)
+* [ノンパラメトリックベイズ入門](http://qiita.com/masasora/items/5469638d93d9c834724b)
+* [スパムを識別する自然言語分類子を作成する](http://www.ibm.com/developerworks/jp/cognitive/library/cc-spam-classification-service-watson-nlc-bluemix-trs/index.html)
