@@ -242,3 +242,6 @@
 * [Apache Spark の革命的リアルタイム用法](https://www.hadoop-times.com/game-changing-real-time-uses-for-apache-spark.html)
 * [ノンパラメトリックベイズ入門](http://qiita.com/masasora/items/5469638d93d9c834724b)
 * [スパムを識別する自然言語分類子を作成する](http://www.ibm.com/developerworks/jp/cognitive/library/cc-spam-classification-service-watson-nlc-bluemix-trs/index.html)
+* [「そのモデルの精度、高過ぎませんか？」過学習・汎化性能・交差検証のはなし](http://tjo.hatenablog.com/entry/2016/04/14/190000)
+* [今季見るべきアニメを機械学習で推薦する](http://hakobe932.hatenablog.com/entry/2016/04/15/142756)
+* [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
