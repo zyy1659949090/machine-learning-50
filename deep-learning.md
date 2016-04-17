@@ -54,6 +54,8 @@
 * [「TensorFlow Tutorialの数学的背景」 クイックツアー（パート1）](http://www.slideshare.net/enakai/tensorflow-tutrial-1)
 * [知識ゼロからTensorFlowを使った機械学習で人工知能を作るー入門編１](http://qiita.com/jabba/items/2ddd0b8fb855febb4d43)
 * [深層学習ライブラリkerasでword2vecにあるCBoW実装した](http://qiita.com/nzw0301/items/1ee8f4735536bf3177e0)
+* [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/)
+* [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 
 ##基礎
 * **Back Propagation**
