@@ -245,3 +245,4 @@
 * [「そのモデルの精度、高過ぎませんか？」過学習・汎化性能・交差検証のはなし](http://tjo.hatenablog.com/entry/2016/04/14/190000)
 * [今季見るべきアニメを機械学習で推薦する](http://hakobe932.hatenablog.com/entry/2016/04/15/142756)
 * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
+* [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
