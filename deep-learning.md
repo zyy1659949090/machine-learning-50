@@ -56,6 +56,7 @@
 * [深層学習ライブラリkerasでword2vecにあるCBoW実装した](http://qiita.com/nzw0301/items/1ee8f4735536bf3177e0)
 * [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
+* [Deep Learningライブラリ 色々つかってみた感想まとめ](https://speakerdeck.com/contaconta/deep-learningraiburari-se-tukatutemitagan-xiang-matome)
 
 ##基礎
 * **Back Propagation**
@@ -124,6 +125,7 @@
 * [Googleから出た機械学習ライブラリTensorFlowのインストール](http://qiita.com/bohemian916/items/62ef3fe4d90745cc92f6)
 * [Distributed TensorFlowの話](http://qiita.com/kazunori279/items/981a8a2a44f5d1172856)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow.](http://tflearn.org/)
+* [特にプログラマーでもデータサイエンティストでもないけど、Tensorflowを1ヶ月触ったので超分かりやすく解説](http://qiita.com/tawago/items/c977c79b76c5979874e8#1-deep-learning%E3%81%A3%E3%81%A6%E3%81%9D%E3%82%82%E3%81%9D%E3%82%82%E4%BD%95%E3%81%97%E3%81%A6%E3%82%8B%E3%81%AE)
 
 ##事例
 * [ディープラーニングによる画像認識と応用事例](http://www.slideshare.net/Takayosi/nvidia-51814334)
