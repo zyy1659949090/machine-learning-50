@@ -246,3 +246,5 @@
 * [今季見るべきアニメを機械学習で推薦する](http://hakobe932.hatenablog.com/entry/2016/04/15/142756)
 * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* [【Ruby】機械学習をするためのgemをつくった](http://qiita.com/seinosuke/items/ba16be7a469a756490be)
+* [PCセキュリティにも訪れる“人工知能”の時代](http://www.atmarkit.co.jp/ait/articles/1604/13/news011.html)
