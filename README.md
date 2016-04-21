@@ -109,6 +109,8 @@
 * [Probabilistic inference by program transformation in Hakaru (system description)](http://homes.soic.indiana.edu/ccshan/rational/system.pdf)
 * [Simplifying Probabilistic Programs Using Computer Algebra](http://www.cs.indiana.edu/ftp/techreports/TR719.pdf)
 * [Abstract Binding Trees in Hakaru](http://winterkoninkje.dreamwidth.org/103978.html)
+* [Encoding Statistical Independence, Statically](http://jtobin.ca/encoding-independence-statically)
+* [Stochastic Lambda Calculus and Monads of Probability Distributions](https://www.cs.tufts.edu/~nr/pubs/pmonad.pdf)
 
 ##数学
 * [統計数理研究所](https://www.youtube.com/channel/UCi0d34-fr49EQC9gfIIh9_Q)
@@ -248,3 +250,6 @@
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [【Ruby】機械学習をするためのgemをつくった](http://qiita.com/seinosuke/items/ba16be7a469a756490be)
 * [PCセキュリティにも訪れる“人工知能”の時代](http://www.atmarkit.co.jp/ait/articles/1604/13/news011.html)
+* [ラズパイ+SL+BMでワトソンと話そう](http://www.slideshare.net/MahoTakara/slbm)
+* [機械学習、活用のコツは「データを集め、正しく問いかけること」　マーケターに必要な知識をSASが解説](http://markezine.jp/article/detail/24178)
+* [rasmusab/bayes.js](https://github.com/rasmusab/bayes.js)
