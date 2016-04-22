@@ -253,3 +253,5 @@
 * [ラズパイ+SL+BMでワトソンと話そう](http://www.slideshare.net/MahoTakara/slbm)
 * [機械学習、活用のコツは「データを集め、正しく問いかけること」　マーケターに必要な知識をSASが解説](http://markezine.jp/article/detail/24178)
 * [rasmusab/bayes.js](https://github.com/rasmusab/bayes.js)
+* [AlpacaのJupyter Notebookを用いた機械学習環境](http://blog-jp.alpaca.ai/entry/2016/04/22/110813)
+* [metric-learn: Metric Learning in Python](http://all-umass.github.io/metric-learn/index.html)
