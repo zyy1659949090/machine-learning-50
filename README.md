@@ -255,3 +255,4 @@
 * [rasmusab/bayes.js](https://github.com/rasmusab/bayes.js)
 * [AlpacaのJupyter Notebookを用いた機械学習環境](http://blog-jp.alpaca.ai/entry/2016/04/22/110813)
 * [metric-learn: Metric Learning in Python](http://all-umass.github.io/metric-learn/index.html)
+* [機械学習への活用も期待される、今話題の量子アニーリングってなに？](http://codezine.jp/article/detail/9293)
