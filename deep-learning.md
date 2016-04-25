@@ -186,6 +186,7 @@
 * [RECURRENT NEURAL NETWORK REGULARIZATION](http://arxiv.org/pdf/1409.2329v4.pdf)
 * [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](http://arxiv.org/abs/1503.00075)
 * [Long Short-Term Memory in Recurrent Neural Networks](http://www.felixgers.de/papers/phd.pdf)
+* [Text-based LSTM networks for Automatic Music Composition](http://arxiv.org/abs/1604.05358)
 
 ##Autoencoder
 * [論文輪読資料「Why regularized Auto-Encoders learn Sparse Representation?」DL Hacks](http://www.slideshare.net/kurotaki_weblab/why-regularized-autoencoders-learn-sparse-representationdl-hacks)
