@@ -256,3 +256,5 @@
 * [AlpacaのJupyter Notebookを用いた機械学習環境](http://blog-jp.alpaca.ai/entry/2016/04/22/110813)
 * [metric-learn: Metric Learning in Python](http://all-umass.github.io/metric-learn/index.html)
 * [機械学習への活用も期待される、今話題の量子アニーリングってなに？](http://codezine.jp/article/detail/9293)
+* [Bayesian Optimization for Python](https://www.reddit.com/r/MachineLearning/comments/4g2rnu/bayesian_optimization_for_python/)
+* [PHYSICS FORESTS](http://people.inf.ethz.ch/sjeong/physicsforests/index.html)
