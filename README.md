@@ -258,3 +258,7 @@
 * [機械学習への活用も期待される、今話題の量子アニーリングってなに？](http://codezine.jp/article/detail/9293)
 * [Bayesian Optimization for Python](https://www.reddit.com/r/MachineLearning/comments/4g2rnu/bayesian_optimization_for_python/)
 * [PHYSICS FORESTS](http://people.inf.ethz.ch/sjeong/physicsforests/index.html)
+* [機械学習のライブラリ dlib](http://qiita.com/nonbiri15/items/9561c8194ba0b2041bd0)
+* [輸送不等式から集中不等式を出す](http://ktrmnm.github.io/blog/2016/04/24/201604-transport-ineq-2/)
+* [確率測度の空間の幾何学](https://www.math.kyoto-u.ac.jp/~sohta/jarts/bunkakai08.pdf)
+* [Transport Inequalities. A Survey](http://arxiv.org/abs/1003.3852)
