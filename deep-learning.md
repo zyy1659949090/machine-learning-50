@@ -57,6 +57,8 @@
 * [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [Deep Learningライブラリ 色々つかってみた感想まとめ](https://speakerdeck.com/contaconta/deep-learningraiburari-se-tukatutemitagan-xiang-matome)
+* [ニューラルネットに基づく機械翻訳](http://www.phontron.com/slides/neubig15kyoto-slides.pdf)
+* [C3D: Generic Features for Video Analysis](http://www.cs.dartmouth.edu/~dutran/c3d/)
 
 ##基礎
 * **Back Propagation**
