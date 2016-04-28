@@ -146,6 +146,7 @@
 * [Chainerで画像のキャプション生成](http://qiita.com/dsanno/items/b237482087207d0364c3)
 * [Deep3D: Automatic 2D-to-3D Video Conversion with CNNs](http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html)
 * [VISUAL LOCALISATION](http://mi.eng.cam.ac.uk/projects/relocalisation/)
+* [ラフスケッチの自動線画化](http://hi.cs.waseda.ac.jp/~esimo/ja/research/sketch/)
 
 ##NN
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
