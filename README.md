@@ -262,3 +262,4 @@
 * [輸送不等式から集中不等式を出す](http://ktrmnm.github.io/blog/2016/04/24/201604-transport-ineq-2/)
 * [確率測度の空間の幾何学](https://www.math.kyoto-u.ac.jp/~sohta/jarts/bunkakai08.pdf)
 * [Transport Inequalities. A Survey](http://arxiv.org/abs/1003.3852)
+* [ViZDoom](http://vizdoom.cs.put.edu.pl/)
