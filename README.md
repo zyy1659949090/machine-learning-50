@@ -264,3 +264,4 @@
 * [Transport Inequalities. A Survey](http://arxiv.org/abs/1003.3852)
 * [ViZDoom](http://vizdoom.cs.put.edu.pl/)
 * [OpenAI Gym](https://gym.openai.com/)
+* [情報幾何の基礎的スタディ](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/index.html)
