@@ -145,6 +145,7 @@
 * [HaskellR](http://tweag.github.io/HaskellR/)
   * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
   * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
+* [QLearn: A Haskell library for iterative Q-learning.](http://poincare.github.io/QLearn/)
 
 ##学会
 * [言語処理学会第20回年次大会(NLP2014)](http://www.anlp.jp/nlp2014/)
@@ -265,3 +266,5 @@
 * [ViZDoom](http://vizdoom.cs.put.edu.pl/)
 * [OpenAI Gym](https://gym.openai.com/)
 * [情報幾何の基礎的スタディ](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/index.html)
+* [ボックスフィルタ](http://ibip.shufjt.net/boxfilter/)
+* [Leaf - Machine Learning for Hackers](http://autumnai.com/leaf/book/leaf.html)
