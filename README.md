@@ -271,3 +271,6 @@
 * [AI Monetization Landascape in US](http://www.slideshare.net/minoruetoh/ai-monetization-landascape-in-us)
 * [kobayutapon/CloudVisionAPI](https://github.com/kobayutapon/CloudVisionAPI)
 * [機械学習で2年分の積雪量の変化を予測してみた](http://qiita.com/hiroeorz@github/items/a7907bb3dd6f4e407ffd)
+* [ソフトウェアのための統計学 – 前編](http://postd.cc/statistics-for-software/)
+* [Machine Translation API](http://www.pangeanic.com/translation-technology/machine-translation-api/#)
+* [ガウシアンフィルタ](http://ibip.shufjt.net/gaussianfilter/)
