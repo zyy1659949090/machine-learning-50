@@ -268,3 +268,6 @@
 * [情報幾何の基礎的スタディ](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/index.html)
 * [ボックスフィルタ](http://ibip.shufjt.net/boxfilter/)
 * [Leaf - Machine Learning for Hackers](http://autumnai.com/leaf/book/leaf.html)
+* [AI Monetization Landascape in US](http://www.slideshare.net/minoruetoh/ai-monetization-landascape-in-us)
+* [kobayutapon/CloudVisionAPI](https://github.com/kobayutapon/CloudVisionAPI)
+* [機械学習で2年分の積雪量の変化を予測してみた](http://qiita.com/hiroeorz@github/items/a7907bb3dd6f4e407ffd)
