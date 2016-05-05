@@ -274,3 +274,4 @@
 * [ソフトウェアのための統計学 – 前編](http://postd.cc/statistics-for-software/)
 * [Machine Translation API](http://www.pangeanic.com/translation-technology/machine-translation-api/#)
 * [ガウシアンフィルタ](http://ibip.shufjt.net/gaussianfilter/)
+* [ROC曲線とPR曲線の違いについての考察](http://qiita.com/skyshk/items/016cd1820650ea78d101)
