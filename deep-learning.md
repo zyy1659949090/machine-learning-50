@@ -108,6 +108,7 @@
 * [Chainerのテスト環境とDockerでのCUDAの利用](http://www.slideshare.net/unnonouno/chainerdockercuda)
 * [深層学習フレームワークChainerの特徴](http://www.slideshare.net/unnonouno/chainer-59664785)
 * [DQNの生い立ち＋Deep Q-NetworkをChainerで書いた](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)
+* [あれ...？chainerよりkerasの方が書きやすくね？](http://ket-30.hatenablog.com/entry/keras/mnist)
 
 ###Tensor Flow
 * [TensorFlow](http://tensorflow.org/)
