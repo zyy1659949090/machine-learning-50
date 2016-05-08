@@ -59,6 +59,7 @@
 * [Deep Learningライブラリ 色々つかってみた感想まとめ](https://speakerdeck.com/contaconta/deep-learningraiburari-se-tukatutemitagan-xiang-matome)
 * [ニューラルネットに基づく機械翻訳](http://www.phontron.com/slides/neubig15kyoto-slides.pdf)
 * [C3D: Generic Features for Video Analysis](http://www.cs.dartmouth.edu/~dutran/c3d/)
+* <https://github.com/nzw0301/keras-examples/blob/master/keras_tutorial.ipynb>
 
 ##基礎
 * **Back Propagation**
