@@ -25,6 +25,7 @@
 * [The chatter package](https://hackage.haskell.org/package/chatter)
 * [自然言語処理のための変分ベイズ法](http://chasen.org/~daiti-m/paper/vb-nlp-tutorial.pdf)
 * [意味表現の素性への構造主義的アプローチ入門](http://www.slideshare.net/kaikunir/ss-60043052)
+* [【特別連載】 さぁ、自然言語処理を始めよう！（最終回： 機械学習によるテキストマイニング）](https://datumstudio.jp/backstage/662)
 
 ###形態素解析
 * [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
@@ -275,3 +276,5 @@
 * [Machine Translation API](http://www.pangeanic.com/translation-technology/machine-translation-api/#)
 * [ガウシアンフィルタ](http://ibip.shufjt.net/gaussianfilter/)
 * [ROC曲線とPR曲線の違いについての考察](http://qiita.com/skyshk/items/016cd1820650ea78d101)
+* [Context Encoders: Feature Learning by Inpainting](http://www.cs.berkeley.edu/~pathak/context_encoder/)
+* [最適化超入門](http://www.slideshare.net/tkm2261/ss-42149384)
