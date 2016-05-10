@@ -147,6 +147,7 @@
   * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
   * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
 * [QLearn: A Haskell library for iterative Q-learning.](http://poincare.github.io/QLearn/)
+* [Automatic Propagation of Uncertainty with AD](https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html)
 
 ##学会
 * [言語処理学会第20回年次大会(NLP2014)](http://www.anlp.jp/nlp2014/)
@@ -278,3 +279,6 @@
 * [ROC曲線とPR曲線の違いについての考察](http://qiita.com/skyshk/items/016cd1820650ea78d101)
 * [Context Encoders: Feature Learning by Inpainting](http://www.cs.berkeley.edu/~pathak/context_encoder/)
 * [最適化超入門](http://www.slideshare.net/tkm2261/ss-42149384)
+* [blei-lab/edward](https://github.com/blei-lab/edward)
+* [Hadoopの使い方のまとめ(2016年5月版)](http://qiita.com/shiumachi/items/c3e609cb919a30e2ea05)
+* [機械学習の分類の話](https://github.com/chezou/notebooks/blob/master/classification.ipynb)
