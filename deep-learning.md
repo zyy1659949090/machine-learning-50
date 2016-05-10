@@ -60,6 +60,9 @@
 * [ニューラルネットに基づく機械翻訳](http://www.phontron.com/slides/neubig15kyoto-slides.pdf)
 * [C3D: Generic Features for Video Analysis](http://www.cs.dartmouth.edu/~dutran/c3d/)
 * <https://github.com/nzw0301/keras-examples/blob/master/keras_tutorial.ipynb>
+* [Neural Networks in Javascript](http://blog.webkid.io/neural-networks-in-javascript/)
+* [深層学習による自然言語処理の研究動向](http://www.slideshare.net/stairlab/ss-61806151)
+* [Word2Vec のニューラルネットワーク学習過程を理解する](http://tkengo.github.io/blog/2016/05/09/understand-how-to-learn-word2vec/)
 
 ##基礎
 * **Back Propagation**
