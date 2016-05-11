@@ -282,3 +282,4 @@
 * [blei-lab/edward](https://github.com/blei-lab/edward)
 * [Hadoopの使い方のまとめ(2016年5月版)](http://qiita.com/shiumachi/items/c3e609cb919a30e2ea05)
 * [機械学習の分類の話](https://github.com/chezou/notebooks/blob/master/classification.ipynb)
+* [クラスタリングの不可能性定理について](http://qiita.com/snuffkin/items/a81162d1713877defa52)
