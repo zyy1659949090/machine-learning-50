@@ -283,3 +283,5 @@
 * [Hadoopの使い方のまとめ(2016年5月版)](http://qiita.com/shiumachi/items/c3e609cb919a30e2ea05)
 * [機械学習の分類の話](https://github.com/chezou/notebooks/blob/master/classification.ipynb)
 * [クラスタリングの不可能性定理について](http://qiita.com/snuffkin/items/a81162d1713877defa52)
+* [東京大学 杉山・佐藤研究室：機械学習と統計的データ解析](http://www.ms.k.u-tokyo.ac.jp/publications-jp.html)
+* [Support Vector Algorithms for Optimizing the Partial Area Under the ROC Curve](http://arxiv.org/abs/1605.04337)
