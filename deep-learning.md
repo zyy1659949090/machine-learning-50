@@ -63,6 +63,7 @@
 * [Neural Networks in Javascript](http://blog.webkid.io/neural-networks-in-javascript/)
 * [深層学習による自然言語処理の研究動向](http://www.slideshare.net/stairlab/ss-61806151)
 * [Word2Vec のニューラルネットワーク学習過程を理解する](http://tkengo.github.io/blog/2016/05/09/understand-how-to-learn-word2vec/)
+* [TensorFlowで学習したモデルを使ってiOS/Swiftで実行する](http://qiita.com/koher/items/2c0bfca4d6e31cde674b)
 
 ##基礎
 * **Back Propagation**
