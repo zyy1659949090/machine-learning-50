@@ -64,6 +64,8 @@
 * [深層学習による自然言語処理の研究動向](http://www.slideshare.net/stairlab/ss-61806151)
 * [Word2Vec のニューラルネットワーク学習過程を理解する](http://tkengo.github.io/blog/2016/05/09/understand-how-to-learn-word2vec/)
 * [TensorFlowで学習したモデルを使ってiOS/Swiftで実行する](http://qiita.com/koher/items/2c0bfca4d6e31cde674b)
+* [Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html)
+* [A3Cという強化学習アルゴリズムで遊んでみた話](http://www.slideshare.net/mooopan/a3c-62170605)
 
 ##基礎
 * **Back Propagation**
@@ -153,6 +155,7 @@
 * [Deep3D: Automatic 2D-to-3D Video Conversion with CNNs](http://dmlc.ml/mxnet/2016/04/04/deep3d-automatic-2d-to-3d-conversion-with-CNN.html)
 * [VISUAL LOCALISATION](http://mi.eng.cam.ac.uk/projects/relocalisation/)
 * [ラフスケッチの自動線画化](http://hi.cs.waseda.ac.jp/~esimo/ja/research/sketch/)
+* [深層学習で自動作曲（Stacked LSTM編） [DW 6日目]](http://qiita.com/komakomako/items/de5077efa344a8689fa0)
 
 ##NN
 * [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
