@@ -66,6 +66,7 @@
 * [TensorFlowで学習したモデルを使ってiOS/Swiftで実行する](http://qiita.com/koher/items/2c0bfca4d6e31cde674b)
 * [Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html)
 * [A3Cという強化学習アルゴリズムで遊んでみた話](http://www.slideshare.net/mooopan/a3c-62170605)
+* [現在のDNNにおける未解決問題](http://www.slideshare.net/DaisukeOkanohara/dnn-62218756)
 
 ##基礎
 * **Back Propagation**
