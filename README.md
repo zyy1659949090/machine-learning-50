@@ -286,3 +286,4 @@
 * [東京大学 杉山・佐藤研究室：機械学習と統計的データ解析](http://www.ms.k.u-tokyo.ac.jp/publications-jp.html)
 * [Support Vector Algorithms for Optimizing the Partial Area Under the ROC Curve](http://arxiv.org/abs/1605.04337)
 * [Linear Dimensionality Reduction: Survey, Insights, and Generalizations](http://stat.columbia.edu/~cunningham/pdf/CunninghamJMLR2015.pdf)
+* [Metropolis Hastings Algorithm](http://e-musu.github.io/other/2016/05/09/metropolis-hastings-algorithm)
