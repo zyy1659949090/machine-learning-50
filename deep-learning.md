@@ -67,6 +67,8 @@
 * [Terrain-Adaptive Locomotion Skills Using Deep Reinforcement Learning](https://www.cs.ubc.ca/~van/papers/2016-TOG-deepRL/index.html)
 * [A3Cという強化学習アルゴリズムで遊んでみた話](http://www.slideshare.net/mooopan/a3c-62170605)
 * [現在のDNNにおける未解決問題](http://www.slideshare.net/DaisukeOkanohara/dnn-62218756)
+* [Deep Learning without Poor Local Minima](http://arxiv.org/abs/1605.07110)
+* [カテゴリー変数に embedding layer を用いたNeural Net](http://puyokw.hatenablog.com/entry/2016/05/22/090000)
 
 ##基礎
 * **Back Propagation**
