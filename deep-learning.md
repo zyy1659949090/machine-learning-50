@@ -69,6 +69,8 @@
 * [現在のDNNにおける未解決問題](http://www.slideshare.net/DaisukeOkanohara/dnn-62218756)
 * [Deep Learning without Poor Local Minima](http://arxiv.org/abs/1605.07110)
 * [カテゴリー変数に embedding layer を用いたNeural Net](http://puyokw.hatenablog.com/entry/2016/05/22/090000)
+* [Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
+* [Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks](http://www.kdd.org/kdd2016/subtopic/view/large-scale-item-categorization-in-e-commerce-using-multiple-recurrent-neur)
 
 ##基礎
 * **Back Propagation**
