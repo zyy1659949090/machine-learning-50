@@ -71,6 +71,8 @@
 * [カテゴリー変数に embedding layer を用いたNeural Net](http://puyokw.hatenablog.com/entry/2016/05/22/090000)
 * [Fizz Buzz in Tensorflow](http://joelgrus.com/2016/05/23/fizz-buzz-in-tensorflow/)
 * [Large-Scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks](http://www.kdd.org/kdd2016/subtopic/view/large-scale-item-categorization-in-e-commerce-using-multiple-recurrent-neur)
+* [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
+* [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 
 ##基礎
 * **Back Propagation**
