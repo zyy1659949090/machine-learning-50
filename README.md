@@ -292,4 +292,8 @@
 * [Mechanics of Lagrangians](http://www.argmin.net/2016/05/31/mechanics-of-lagrangians/)
 * [NIPS 2015 Workshop Videos](https://nips.cc/Conferences/2015/Schedule?type=Workshop)
 * [A Gentle Introduction To The Basics Of Machine Learning](https://miguelgfierro.com/blog/2016/a-gentle-introduction-to-the-basics-of-machine-learning/)
-
+* [Tamara Broderick 1: Bayesian Nonparametrics](https://www.youtube.com/watch?v=kKZkNUvsJ4M)
+* [A Riemannian Framework for Statistical Analysis of Topological Persistence Diagrams](http://arxiv.org/abs/1605.08912)
+* [Kernel Mean Embedding of Distributions: A Review and Beyonds](http://arxiv.org/abs/1605.09522)
+* [Test Run - Introduction to Prediction Markets](https://msdn.microsoft.com/en-us/magazine/mt707531.aspx)
+* [ゼロからDeepまで学ぶ強化学習](http://qiita.com/icoxfog417/items/242439ecd1a477ece312)
