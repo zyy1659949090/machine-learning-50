@@ -74,6 +74,7 @@
 * [Google's AI Chief Geoffrey Hinton - How Neural Networks Really Work](https://www.youtube.com/watch?v=l2dVjADTEDU)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [【プログラミング不要】ディープラーニング（h2o.ai）で株価予測をやってみた](http://andoo.hatenablog.com/entry/deeplearning_kabu)
+* [RNN Backprop Through Time Equations](https://jramapuram.github.io/ramblings/rnn-backrpop/)
 
 ##基礎
 * **Back Propagation**
