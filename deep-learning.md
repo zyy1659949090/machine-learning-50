@@ -185,6 +185,7 @@
 * [A Theory of Generative ConvNet](http://www.stat.ucla.edu/~ywu/GenerativeConvNet/main.html)
 * [自然言語処理における畳み込みニューラルネットワークを理解する](http://tkengo.github.io/blog/2016/03/11/understanding-convolutional-neural-networks-for-nlp/)
 * [Deep Learningライブラリ{mxnet}のR版でConvolutional Neural Networkをサクッと試してみた](http://tjo.hatenablog.com/entry/2016/03/29/180000)
+* [Data-dependent Initializations of Convolutional Neural Networks](https://arxiv.org/abs/1511.06856)
 
 ##RNN
 * [JPMoresmau/rnn](https://github.com/JPMoresmau/rnn)
