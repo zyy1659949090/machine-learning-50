@@ -298,3 +298,4 @@
 * [Test Run - Introduction to Prediction Markets](https://msdn.microsoft.com/en-us/magazine/mt707531.aspx)
 * [ゼロからDeepまで学ぶ強化学習](http://qiita.com/icoxfog417/items/242439ecd1a477ece312)
 * [An Introduction to Signal Smoothing](http://www.alanzucconi.com/2016/06/03/an-introduction-to-signal-smoothing/)
+* [Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)
