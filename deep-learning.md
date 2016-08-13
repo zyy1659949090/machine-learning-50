@@ -75,6 +75,7 @@
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
 * [【プログラミング不要】ディープラーニング（h2o.ai）で株価予測をやってみた](http://andoo.hatenablog.com/entry/deeplearning_kabu)
 * [RNN Backprop Through Time Equations](https://jramapuram.github.io/ramblings/rnn-backrpop/)
+* [Keras: Deep Learning library for Theano and TensorFlow](https://keras.io/)
 
 ##基礎
 * **Back Propagation**
