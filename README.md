@@ -148,6 +148,8 @@
   * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
 * [QLearn: A Haskell library for iterative Q-learning.](http://poincare.github.io/QLearn/)
 * [Automatic Propagation of Uncertainty with AD](https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html)
+* [Kalman filters and functional programming](http://www.johndcook.com/blog/2016/07/14/kalman-filters-and-functional-programming/)
+* [aneksteind/hext](https://github.com/aneksteind/hext)
 
 ##学会
 * [言語処理学会第20回年次大会(NLP2014)](http://www.anlp.jp/nlp2014/)
@@ -299,3 +301,4 @@
 * [ゼロからDeepまで学ぶ強化学習](http://qiita.com/icoxfog417/items/242439ecd1a477ece312)
 * [An Introduction to Signal Smoothing](http://www.alanzucconi.com/2016/06/03/an-introduction-to-signal-smoothing/)
 * [Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)
+* [Notes on Probabilistic Information Retrieval —ProbabilityRanking Principle から BM25 まで—](http://sleepyheads.jp/docs/prob_ir.pdf)
