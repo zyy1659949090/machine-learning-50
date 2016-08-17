@@ -302,3 +302,4 @@
 * [An Introduction to Signal Smoothing](http://www.alanzucconi.com/2016/06/03/an-introduction-to-signal-smoothing/)
 * [Model evaluation, model selection, and algorithm selection in machine learning - Part I](http://sebastianraschka.com/blog/2016/model-evaluation-selection-part1.html)
 * [Notes on Probabilistic Information Retrieval —ProbabilityRanking Principle から BM25 まで—](http://sleepyheads.jp/docs/prob_ir.pdf)
+* [Lecture Notes on Randomized Linear Algebra](http://arxiv.org/abs/1608.04481)
