@@ -150,6 +150,7 @@
 * [Automatic Propagation of Uncertainty with AD](https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html)
 * [Kalman filters and functional programming](http://www.johndcook.com/blog/2016/07/14/kalman-filters-and-functional-programming/)
 * [aneksteind/hext](https://github.com/aneksteind/hext)
+* [Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 
 ##学会
 * [言語処理学会第20回年次大会(NLP2014)](http://www.anlp.jp/nlp2014/)
