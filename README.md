@@ -98,21 +98,6 @@
 * [ianoc/jt](https://github.com/ianoc/jt)
 * [Apache Sparkで始めるお手軽機械学習(Word2Vec編)](http://www.intellilink.co.jp/article/column/bigdata-kk04.html)
 
-##Probabilistic Programming
-* [Learning Probabilistic Programs](http://arxiv.org/abs/1407.2646)
-* [FUNCTIONAL PEARLS: Probabilistic Functional Programming in Haskell](https://web.engr.oregonstate.edu/~erwig/papers/PFP_JFP06.pdf)
-* [A Probabilistic Functional Programming Library for Haskell](https://web.engr.oregonstate.edu/~erwig/pfp/)
-* [A New Approach to Probabilistic Programming Inference](http://www.robots.ox.ac.uk/~fwood/assets/pdf/Wood-AISTATS-2014.pdf)
-* [FMFMFMF: Free Monads For Making Fast Models, Functionally.](http://statusfailed.com/blog/2015/09/04/free-monads-for-making-fast-models.html)
-* [Practical Probabilistic Programming with Monads](https://www.youtube.com/watch?v=hI0ajVy2xEk)
-* [Practical probabilistic programming with monads](http://dl.acm.org/citation.cfm?id=2804317)
-* [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
-* [Probabilistic inference by program transformation in Hakaru (system description)](http://homes.soic.indiana.edu/ccshan/rational/system.pdf)
-* [Simplifying Probabilistic Programs Using Computer Algebra](http://www.cs.indiana.edu/ftp/techreports/TR719.pdf)
-* [Abstract Binding Trees in Hakaru](http://winterkoninkje.dreamwidth.org/103978.html)
-* [Encoding Statistical Independence, Statically](http://jtobin.ca/encoding-independence-statically)
-* [Stochastic Lambda Calculus and Monads of Probability Distributions](https://www.cs.tufts.edu/~nr/pubs/pmonad.pdf)
-
 ##数学
 * [統計数理研究所](https://www.youtube.com/channel/UCi0d34-fr49EQC9gfIIh9_Q)
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
@@ -137,20 +122,6 @@
 * [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 * [UCF101 - Action Recognition Data Set](http://crcv.ucf.edu/data/UCF101.php)
 * [機械学習でつかう画像を集める作業を少しラクにするツールをつくりました](http://daiiz.hatenablog.com/entry/2016/02/19/235524)
-
-##Haskell
-* [random-fu](https://hackage.haskell.org/package/random-fu)
-* [mikeizbicki/HLearn](https://github.com/mikeizbicki/HLearn/)
-  * [Haskellの機械学習ライブラリHLearn](http://qiita.com/nebutalab/items/680203ff3d84cde7c8db)
-* [bmsherman/haskell-matlab](https://github.com/bmsherman/haskell-matlab)
-* [HaskellR](http://tweag.github.io/HaskellR/)
-  * [Programming R at native speed using Haskell](http://www.tweag.io/blog/programming-r-at-native-speed-using-haskell)
-  * [How to include R plots and diagrams in blog posts](http://www.corentindupont.info/blog/posts/Programming/2015-09-14-diagrams.html)
-* [QLearn: A Haskell library for iterative Q-learning.](http://poincare.github.io/QLearn/)
-* [Automatic Propagation of Uncertainty with AD](https://blog.jle.im/entry/automatic-propagation-of-uncertainty-with-ad.html)
-* [Kalman filters and functional programming](http://www.johndcook.com/blog/2016/07/14/kalman-filters-and-functional-programming/)
-* [aneksteind/hext](https://github.com/aneksteind/hext)
-* [Practical Probabilistic Programming with Monads](http://mlg.eng.cam.ac.uk/pub/pdf/SciGhaGor15.pdf)
 
 ##学会
 * [言語処理学会第20回年次大会(NLP2014)](http://www.anlp.jp/nlp2014/)
@@ -197,14 +168,9 @@
 * [プロトタイプで終わらせない死の谷を超える機械学習プロジェクトの進め方](http://www.slideshare.net/shakezo/mlct4)
 * [異常検知と変化検知のまとめ 数式なし](http://qiita.com/GushiSnow/items/f032806cfa8cec046318)
 * [リクルート式　自然言語処理技術の適応事例紹介](http://www.slideshare.net/recruitcojp/ss-56150629)
-* [bitemyapp/bloodhound](https://github.com/bitemyapp/bloodhound) - Haskell Elasticsearch client and query DSL
-* [IHaskell Online: Help Choose Demo Code Snippets!](http://www.reddit.com/r/haskell/comments/37uqqk/ihaskell_online_help_choose_demo_code_snippets/)
-* [関数型言語Haskellを用いた役割指向エージェントベースシミュレーションシステムのプロトタイプ開発](http://repo.lib.hosei.ac.jp/handle/10114/11016)
-* [Install IHaskell on Ubuntu 14.04 with Stack](http://remusao.github.io/install-ihaskell-on-ubuntu-1404-with-stack.html)
 * [A tour of IHaskell extensions and integrations](http://remusao.github.io/a-tour-of-ihaskell-extensions-and-integrations.html)
 * [shnarazk/mios](https://github.com/shnarazk/mios)
 * [Particle Smoothing](https://idontgetoutmuch.wordpress.com/2016/01/20/particle-smoothing/)
-* [Demo of IHaskell Notebook](http://begriffs.com/posts/2016-01-20-ihaskell-notebook.html)
 * [MCMC: The Gibbs Sampler](https://theclevermachine.wordpress.com/2012/11/05/mcmc-the-gibbs-sampler/)
 * [Bounded Variation](http://boundedvariation.github.io/)
 * [Dynamical systems](https://bayeshive.com/help/1589)
