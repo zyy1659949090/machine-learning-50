@@ -1,6 +1,5 @@
 #Deep Learning
 * [Reducing the Dimensionality of Data with Neural Networks](http://www.cs.toronto.edu/~hinton/science.pdf) - Deep Learning の火付け役となった論文
-* [ajtulloch/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 * [Deep Learningと音声認識](https://research.preferred.jp/2015/07/deep-learning-speech-recognition/)
 * [自然言語処理のためのDeep Learning](http://www.slideshare.net/yutakikuchi927/deep-learning-26647407)
@@ -168,12 +167,7 @@
 * [深層学習で自動作曲（Stacked LSTM編） [DW 6日目]](http://qiita.com/komakomako/items/de5077efa344a8689fa0)
 
 ##NN
-* [jbarrow/LambdaNet](https://github.com/jbarrow/LambdaNet)
-* [alpmestan/hnn](https://github.com/alpmestan/hnn)
-* [Neural networks in Haskell (Lynn)](https://twitter.com/mcarberg/status/664750004742000640)
-* [Haskellでニューラルネットワーク](http://imokuri123.com/blog/2015/07/neural-network-in-haskell.html)
 * [数式で書き下す Maxout Networks](http://blog.yusugomori.com/post/133257383300/%E6%95%B0%E5%BC%8F%E3%81%A7%E6%9B%B8%E3%81%8D%E4%B8%8B%E3%81%99-maxout-networks)
-* [ニューラルネットワーク、多様体、トポロジー](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)
 * [ConvnetJS demo: toy 2d classification with 2-layer neural network](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html)
 * [ロジスティック回帰 (勾配降下法 / 確率的勾配降下法) を可視化する](http://sinhrks.hatenablog.com/entry/2014/11/24/205305)
 
@@ -225,6 +219,3 @@
 * [RBMから考えるDeep Learning　～黒魔術を添えて～](http://qiita.com/t_Signull/items/f776aecb4909b7c5c116)
 * [制限付きボルツマンマシンの初心者向けガイド](http://postd.cc/a-beginners-guide-to-restricted-boltzmann-machines/)
 * [コンストラスティブ・ダイバージェンス法を用いた制限ボルツマンマシン(RBM)の実装](http://kivantium.hateblo.jp/entry/2015/12/01/000207)
-
-##Functional Programming
-* [Neural Networks, Types, and Functional Programming](http://colah.github.io/posts/2015-09-NN-Types-FP/)
