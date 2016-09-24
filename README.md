@@ -1,34 +1,14 @@
 * [Deep Learning](deep-learning.md)
-* [全脳アーキテクチャ勉強会](http://www.sig-agi.org/wba)
-
-##クラウド
-* [クラウド機械学習の進歩で「プラモデルのように機械学習システムが作れる」時代が到来しつつある](http://tjo.hatenablog.com/entry/2016/03/24/190000)
-* [(主に)ディープラーニングの成果を利用したAPI集(自分用)](http://qiita.com/shngt/items/966799cc3f7c77a6fa17)
-* [Google Cloud Platform](https://cloud.google.com/products/machine-learning/)
-  * [CLOUD VISION API](https://cloud.google.com/vision/?hl=ja)
-  * [有害な画像に機械学習？Cloud Vision APIを使ってみる](http://design-lab.tuqulore.com/safety_image_upload_form_design/)
-  * [Googleが自社で使っている「クラウド機械学習」を一般に開放、こんなスゴイことが簡単にできる](http://gigazine.net/news/20160324-google-cloud-machine-learning/)
-* [Microsoft Azure Machine Learning](https://azure.microsoft.com/ja-jp/services/machine-learning/)
-* [Amazon Machine Learning](https://aws.amazon.com/jp/machine-learning/)
-  * [Azure Machine Learning できるとこまでやってみよう Vol.1](http://sadynitro.hatenablog.jp/entry/2015/04/11/191614)
 
 ##自然言語処理
-* [Google Ngram Viewer](https://books.google.com/ngrams)
-* [tf-idf](http://www.wikiwand.com/ja/Tf-idf)
 * [文法圧縮入門：超高速テキスト処理のためのデータ圧縮（NLP2014チュートリアル）](http://www.slideshare.net/marugorithm/nlp2014)
 * [意味の意味が分からない](http://rekken.g.hatena.ne.jp/murawaki/20140206/p1)
 * [Latent Dirichlet Allocation(LDA)を用いたニュース記事の分類](http://developer.smartnews.com/blog/2013/08/19/lda-based-channel-categorization-in-smartnews/)
-* [The edit-distance package](http://hackage.haskell.org/package/edit-distance)
-* [Colada: (Word) Classes with Online LDA](https://bitbucket.org/gchrupala/colada)
-* [The colada package](https://hackage.haskell.org/package/colada)
-* [The swift-lda package](https://hackage.haskell.org/package/swift-lda)
-* [The chatter package](https://hackage.haskell.org/package/chatter)
 * [自然言語処理のための変分ベイズ法](http://chasen.org/~daiti-m/paper/vb-nlp-tutorial.pdf)
 * [意味表現の素性への構造主義的アプローチ入門](http://www.slideshare.net/kaikunir/ss-60043052)
 * [【特別連載】 さぁ、自然言語処理を始めよう！（最終回： 機械学習によるテキストマイニング）](https://datumstudio.jp/backstage/662)
 
 ###形態素解析
-* [The Functional Morphology Library](http://www.cse.chalmers.se/alumni/markus/FM_Tech_Report.pdf)
 * [日本語形態素解析システム JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
 
 ##Classification
@@ -73,9 +53,6 @@
 ##画像処理
 * [画像認識の初歩、SIFT,SURF特徴量](http://www.slideshare.net/lawmn/siftsurf)
 * [サルでも分かる waifu2x のアルゴリズム](https://drive.google.com/a/cyberagent.co.jp/file/d/0B22mWPiNr-6-RVVpaGhZa1hJTnM/view)
-* [friday](https://hackage.haskell.org/package/friday)
-  * [RaphaelJ/friday-report](https://github.com/RaphaelJ/friday-report/blob/master/README.md)
-* [cpvrlab/ImagePlay](https://github.com/cpvrlab/ImagePlay)
 * [[OpenCV] いまさら局所特徴量で物体検出！？](http://qiita.com/hmichu/items/f5f1c778a155c7c414fd)
 * [HOG特徴量とSVMを使った自動車の検出](http://96n.hatenablog.com/entry/2016/01/23/100311)
 
@@ -85,7 +62,6 @@
 ##サンプリング
 * [サンプリング手法について(自分なりに)わかりやすく書くよ！](http://qiita.com/ysekky/items/16cd279c9be0dfb75217)
 * [MCMC講義（伊庭幸人） 難易度★★](https://www.youtube.com/watch?v=-H28H1unn0M)
-* [MIT、マルコフ連鎖モンテカルロ法を高速化するアルゴリズムを発表](http://japan.zdnet.com/article/35073667/)
 * [Population Growth Estimation via Markov Chain Monte Carlo](https://idontgetoutmuch.wordpress.com/2015/06/06/population-growth-estimation-via-markov-chain-monte-carlo/)
 * [Kalman and Bayesian Filters in Python](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
 * [Naive Particle Smoothing is Degenerate](https://idontgetoutmuch.wordpress.com/2015/12/06/naive-particle-smoothing-is-degenerate/)
@@ -122,11 +98,6 @@
 * [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/)
 * [UCF101 - Action Recognition Data Set](http://crcv.ucf.edu/data/UCF101.php)
 * [機械学習でつかう画像を集める作業を少しラクにするツールをつくりました](http://daiiz.hatenablog.com/entry/2016/02/19/235524)
-
-##学会
-* [言語処理学会第20回年次大会(NLP2014)](http://www.anlp.jp/nlp2014/)
-* [NIPS Proceedings](http://papers.nips.cc/)
-  * [Interesting things at NIPS 2015](http://hunch.net/?p=3001617)
 
 ##サービス
 * [clarifai](http://www.clarifai.com/)
@@ -221,7 +192,6 @@
 * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
 * [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 * [【Ruby】機械学習をするためのgemをつくった](http://qiita.com/seinosuke/items/ba16be7a469a756490be)
-* [PCセキュリティにも訪れる“人工知能”の時代](http://www.atmarkit.co.jp/ait/articles/1604/13/news011.html)
 * [ラズパイ+SL+BMでワトソンと話そう](http://www.slideshare.net/MahoTakara/slbm)
 * [機械学習、活用のコツは「データを集め、正しく問いかけること」　マーケターに必要な知識をSASが解説](http://markezine.jp/article/detail/24178)
 * [rasmusab/bayes.js](https://github.com/rasmusab/bayes.js)
