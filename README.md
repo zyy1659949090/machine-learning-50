@@ -1,6 +1,4 @@
-* [Deep Learning](deep-learning.md)
-
-##自然言語処理
+## 自然言語処理
 * [文法圧縮入門：超高速テキスト処理のためのデータ圧縮（NLP2014チュートリアル）](http://www.slideshare.net/marugorithm/nlp2014)
 * [意味の意味が分からない](http://rekken.g.hatena.ne.jp/murawaki/20140206/p1)
 * [Latent Dirichlet Allocation(LDA)を用いたニュース記事の分類](http://developer.smartnews.com/blog/2013/08/19/lda-based-channel-categorization-in-smartnews/)
@@ -8,26 +6,18 @@
 * [意味表現の素性への構造主義的アプローチ入門](http://www.slideshare.net/kaikunir/ss-60043052)
 * [【特別連載】 さぁ、自然言語処理を始めよう！（最終回： 機械学習によるテキストマイニング）](https://datumstudio.jp/backstage/662)
 
-###形態素解析
-* [日本語形態素解析システム JUMAN](http://nlp.ist.i.kyoto-u.ac.jp/index.php?JUMAN)
-
-##Classification
-* [k近傍法](https://ja.wikipedia.org/wiki/K%E8%BF%91%E5%82%8D%E6%B3%95)
+## Classification
 * [Factorization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/Rendle2010FM.pdf)
 * [Bayesian Factorization Machines](http://www.ismll.uni-hildesheim.de/pub/pdfs/FreudenthalerRendle_BayesianFactorizationMachines.pdf)
 * [多クラス分類アルゴリズムの品質メトリック](https://www.xlsoft.com/jp/products/intel/perflib/daal/2016/daal2016_ref/GUID-5220F4E2-3169-40D7-A3B2-CCF10C27B3FE.htm)
 
-###単純ベイズ
+### 単純ベイズ
 * [ベイズ分類をベースにしたSmartNewsのチャンネル判定](http://developer.smartnews.com/blog/2013/07/23/bayes-classification-based-channel-categorization-in-smartnews/)
 * [新はてなブックマークでも使われてるComplement Naive Bayesを解説するよ](http://d.hatena.ne.jp/tkng/20081217/1229475900)
 
 ###K-means 法
 * [K-means 法を D3.js でビジュアライズしてみた](http://tech.nitoyon.com/ja/blog/2013/11/07/k-means/)
 * [今日から使える！ みんなのクラスタリング超入門](http://www.slideshare.net/toilet_lunch/ss-7684979)
-
-###SVM
-* [A User’s Guide to Support Vector Machines](http://pyml.sourceforge.net/doc/howto.pdf)
-* [Machine Learning – When to Use Logistic Regression vs. SVM](http://vitalflux.com/machine-learning-use-logistic-regression-vs-svm/)
 
 ###Random Forest
 * [「はじめてでもわかる RandomForest 入門－集団学習による分類・予測 －」 －第７回データマイニング+WEB勉強会＠東京](http://www.slideshare.net/hamadakoichi/randomforest-web)
@@ -57,7 +47,6 @@
 
 ##サンプリング
 * [サンプリング手法について(自分なりに)わかりやすく書くよ！](http://qiita.com/ysekky/items/16cd279c9be0dfb75217)
-* [MCMC講義（伊庭幸人） 難易度★★](https://www.youtube.com/watch?v=-H28H1unn0M)
 * [Population Growth Estimation via Markov Chain Monte Carlo](https://idontgetoutmuch.wordpress.com/2015/06/06/population-growth-estimation-via-markov-chain-monte-carlo/)
 * [Kalman and Bayesian Filters in Python](http://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb)
 * [Naive Particle Smoothing is Degenerate](https://idontgetoutmuch.wordpress.com/2015/12/06/naive-particle-smoothing-is-degenerate/)
@@ -69,10 +58,7 @@
 * [Apache Sparkで始めるお手軽機械学習(Word2Vec編)](http://www.intellilink.co.jp/article/column/bigdata-kk04.html)
 
 ##数学
-* [統計数理研究所](https://www.youtube.com/channel/UCi0d34-fr49EQC9gfIIh9_Q)
 * [Math for Machine Learning](https://www.umiacs.umd.edu/~hal/courses/2013S_ML/math4ml.pdf)
-* [The Matrix Cookbook](http://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
-* [劣微分を用いた最適化手法について(1)](http://research.preferred.jp/2010/11/subgradient-optimization-1/)
 * [プリキュアで学ぶ劣モジュラ関数](http://tasusu.hatenablog.com/entry/2015/12/01/000608)
 * [60分でわかる仮説検定](http://elsur.jpn.org/resource/t-test.pdf)
 * [Parallelized Stochastic Gradient Descent](http://martin.zinkevich.org/publications/nips2010.pdf)
@@ -111,7 +97,6 @@
 * [Neural CRF Parsing](http://chasen.org/~daiti-m/paper/snlp7-neuralcrf.pdf)
 * [edobashira/speech-language-processing](https://github.com/edobashira/speech-language-processing)
 * [cmusatyalab/openface](https://github.com/cmusatyalab/openface)
-* [「スプラトゥーン」リアルタイム画像解析ツール 「IkaLog」の裏側](http://www.slideshare.net/TakeshiHasegawa1/20151016ssmjpikalog)
 * [IDSIA/brainstorm](https://github.com/IDSIA/brainstorm)
 * [emmanueldenloye/manifoldRNC](https://github.com/emmanueldenloye/manifoldRNC)
 * [Girsanov’s Theorem](https://idontgetoutmuch.wordpress.com/2015/10/31/girsanovs-theorem/)
